@@ -1,5 +1,11 @@
 language: ruby
 rvm:
-  - 2.0.0
-  - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+- 2.0.0
+script: bundle exec rake generate
+deploy:
+  provider: heroku
+  api_key:
+    secure: x9iHgsSgSMYWN38FEr+BBXP9bZ3XeybuGDcOsc7k25rQbZjVNp86BZ7zMZNMIVQuUSRytnANsByGX/xxbJ+9/R4EoycWwEfAjF5uyS5CcwP525o3mtvlrBAC1ugz2ye/b+iDP6RGc10wit+2XVgfGDturvCdbO6y5xmkWijolHE=
+  app: journey-octoblog
+  on:
+    repo: sprestage/journey-octoblog
