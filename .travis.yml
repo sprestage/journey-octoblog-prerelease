@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: x9iHgsSgSMYWN38FEr+BBXP9bZ3XeybuGDcOsc7k25rQbZjVNp86BZ7zMZNMIVQuUSRytnANsByGX/xxbJ+9/R4EoycWwEfAjF5uyS5CcwP525o3mtvlrBAC1ugz2ye/b+iDP6RGc10wit+2XVgfGDturvCdbO6y5xmkWijolHE=
-  app: journey-octoblog
+  app: sprestage-journey-blog
   on:
     repo: sprestage/journey-octoblog
