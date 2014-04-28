@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bigger code sample | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/bigger-code-sample/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code Fellows follow up application]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/15/code-fellows-follow-up-application/"/>
+    <updated>2014-01-15T22:41:20-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/15/code-fellows-follow-up-application</id>
+    <content type="html"><![CDATA[<p>timeline:9/8-9/9 CodeFellows follow up application (3 apps over 4 days, Yikes!!!)</p>
+]]></content>
+  </entry>
+  
+</feed>

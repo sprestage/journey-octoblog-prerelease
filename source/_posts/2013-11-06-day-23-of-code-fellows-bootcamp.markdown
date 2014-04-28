@@ -3,7 +3,9 @@ layout: post
 title: "Day 23 of Code Fellows Bootcamp"
 date: 2013-11-06 13:55:15 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
 Wednesday the 6th of November, 2013  8:02 am
 

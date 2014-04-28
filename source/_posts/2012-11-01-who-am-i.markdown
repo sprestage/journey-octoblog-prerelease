@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Who Am I?"
-date: 2012-11-01 22:43:52 -0800
+date: 2014-04-25 22:43:52 -0800
 comments: true
-categories: 
+categories:
+- my horses
+- my family
+- my geekiness
 ---
 -----------
   OUTLINE
@@ -28,7 +31,7 @@ Title: "Who are you?" and "What do you want?"
 
 "Who are you?" and "What do you want?"
 
-Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at who I am now.  The most important aspects of my life all fall into three categories.  My horses, my family, and my geekiness.  Everything I do in life ties into at least one of these.  
+Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at who I am now.  The most important aspects of my life all fall into three categories.  My horses, my family, and my geekiness.  Everything I do in life ties into at least one of these.
 
 I've been involved with horses my entire life.  They inspire me.  I love them deeply and their presence in my life is one of the foundations of my happiness and life satisfaction.  After hoping and planning from my early to mid-teens, I finally have my dream ranch and my horse breeding program.  I am working toward breeding honest, clever, and well-moving young horses that will, I hope, become that long sought after equine partner for the aspiring rider looking for just the right equine friend.  A challenging goal.  Intelligent horses can be a wonderful challenge to raise, but very rewarding as well.  My careful breeding choices are taking care of the intelligence and athleticism.  The daily focus of to raise and train up the youngsters in a loving but disciplined environment to produce and nurture their good and willing nature.
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: networking meetup | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/networking-meetup/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Seattle Rails Educational/Networking Meetup]]></title>
+    <link href="http://geekymamamare.com/blog/2014/03/15/seattle-rails-educational-slash-networking-meetup/"/>
+    <updated>2014-03-15T23:04:01-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/03/15/seattle-rails-educational-slash-networking-meetup</id>
+    <content type="html"><![CDATA[<p>Seattle Rails Educational/Networking Meetup:  This was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: networking with women | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/networking-with-women/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NorWesCon]]></title>
+    <link href="http://geekymamamare.com/blog/2014/04/05/norwescon/"/>
+    <updated>2014-04-05T22:57:51-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/04/05/norwescon</id>
+    <content type="html"><![CDATA[<p>So, back to the plan to renew that passion and prepare for my reentry into the workforce.  This spring, I went to our local annual literary convention and attended several panels about women in STEM (science, technology, engineering, math) and women networking with women.  Most of my social connections previously have been with men, so networking with women was a bit frightening.  But, I needed to get out more and freshen my networking skills as a preparation for interviewing so I plunged forward.  I chose a couple of venues to start with.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Codechix Ruby on Rails hacking session]]></title>
+    <link href="http://geekymamamare.com/blog/2014/02/25/Codechix+Ruby+on+Rails+hacking+session/"/>
+    <updated>2014-02-25T22:33:05-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/02/25/Codechix Ruby on Rails hacking session</id>
+    <content type="html"><![CDATA[<p>7/14  First ruby/rails ladies meetup (thanks to codechix and Shaili Guru)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Seattle Girl Geek Dinner - meet Code Fellows]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/20/seattle-girl-geek-dinner-meet-code-fellows/"/>
+    <updated>2014-01-20T22:39:39-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/20/seattle-girl-geek-dinner-meet-code-fellows</id>
+    <content type="html"><![CDATA[<p>8/20  Seattle Girl Geek Dinner, sponsored by Code Fellows</p>
+]]></content>
+  </entry>
+  
+</feed>

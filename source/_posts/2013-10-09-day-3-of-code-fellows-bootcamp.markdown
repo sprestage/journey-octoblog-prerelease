@@ -3,7 +3,9 @@ layout: post
 title: "Day 3 of Code Fellows Bootcamp"
 date: 2013-10-09 07:59:42 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
 8 am, October 9th, 2013
   They told us the first day not to stay up late doing our work. Get up early, sure, but don't stay up late. It

@@ -1,72 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://geekymamamare.com/blog/2012/11/01/who-am-i/</loc>
-        <lastmod>2013-12-27T21:05:41-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/02/01/what-do-i-want/</loc>
-        <lastmod>2013-12-27T21:10:38-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/02/26/remembering-ruby/</loc>
-        <lastmod>2013-12-27T21:32:41-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/07/26/submitted-application-to-code-fellows/</loc>
-        <lastmod>2013-12-22T00:25:10-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/08/01/code-fellows-application-accepted/</loc>
-        <lastmod>2013-12-22T00:31:00-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/08/10/coding-at-the-festival/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/09/12/i-got-into-code-fellows/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2013/09/16/getting-ready-for-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
-    </url>
-    <url>
         <loc>http://geekymamamare.com/blog/2013/10/06/day-before-code-fellows-starts/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:01:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/07/first-day-of-ruby-on-rails-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:02:01-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/09/day-3-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:01-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/10/day-4-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:05-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/22/day-12-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:09-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/23/day-13-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/10/31/day-19-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:23-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/11/01/i-made-it-to-gold/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/11/06/day-23-of-code-fellows-bootcamp/</loc>
-        <lastmod>2013-12-20T23:06:55-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:32-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2013/12/04/successfully-graduated-code-fellows/</loc>
+        <lastmod>2014-04-28T00:18:37-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/01/05/getting-ready-for-bootcamp/</loc>
+        <lastmod>2014-04-28T00:00:47-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/01/10/i-got-into-code-fellows/</loc>
+        <lastmod>2014-04-28T00:00:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/01/15/code-fellows-follow-up-application/</loc>
+        <lastmod>2014-04-27T23:59:44-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geekymamamare.com/blog/2014/01/20/seattle-girl-geek-dinner-meet-code-fellows/
+        </loc>
+        <lastmod>2014-04-27T23:57:35-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/01/30/coding-at-the-festival/</loc>
+        <lastmod>2014-04-27T23:59:20-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/02/05/code-fellows-application-accepted/</loc>
+        <lastmod>2014-04-27T23:59:09-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/02/10/submitted-application-to-code-fellows/</loc>
+        <lastmod>2014-04-27T23:54:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/02/20/family-summer-vacation/</loc>
+        <lastmod>2014-04-27T23:53:40-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geekymamamare.com/blog/2014/02/25/Codechix+Ruby+on+Rails+hacking+session/
+        </loc>
+        <lastmod>2014-04-27T23:36:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/05/railstutorial/</loc>
+        <lastmod>2014-04-27T23:52:51-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/10/shes-geeky/</loc>
+        <lastmod>2014-04-27T23:53:48-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geekymamamare.com/blog/2014/03/15/seattle-rails-educational-slash-networking-meetup/
+        </loc>
+        <lastmod>2014-04-27T23:25:09-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/20/codechix/</loc>
+        <lastmod>2014-04-27T23:25:03-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/25/geekgirlcon-cocktail-connections/</loc>
+        <lastmod>2014-04-27T23:24:53-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/30/codeacademy/</loc>
+        <lastmod>2014-04-27T23:24:46-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/05/norwescon/</loc>
+        <lastmod>2014-04-27T23:19:35-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/10/remembering-ruby/</loc>
+        <lastmod>2014-04-27T23:18:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/15/my-technical-background/</loc>
+        <lastmod>2014-04-27T23:17:20-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/20/what-do-i-want/</loc>
+        <lastmod>2014-04-27T23:16:45-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/25/who-am-i/</loc>
+        <lastmod>2014-04-27T23:15:47-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/04/27/an-introduction/</loc>
+        <lastmod>2014-04-27T23:14:32-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/about/</loc>
@@ -102,7 +164,7 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/</loc>
-        <lastmod>2013-12-27T21:32:41-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/javascript.html</loc>
@@ -110,11 +172,11 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/archives/</loc>
-        <lastmod>2013-12-27T21:32:41-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/</loc>
-        <lastmod>2013-12-27T21:32:41-08:00</lastmod>
+        <lastmod>2014-04-28T00:18:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/robots.txt</loc>

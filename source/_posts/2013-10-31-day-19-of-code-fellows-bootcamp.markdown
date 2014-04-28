@@ -3,7 +3,9 @@ layout: post
 title: "Day 19 of Code Fellows Bootcamp"
 date: 2013-10-31 13:08:54 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
  *said in a measuredly quiet voice*
   don't.  panic.

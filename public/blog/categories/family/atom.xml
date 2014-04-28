@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: family | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/family/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[family summer vacation]]></title>
+    <link href="http://geekymamamare.com/blog/2014/02/20/family-summer-vacation/"/>
+    <updated>2014-02-20T22:37:45-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/02/20/family-summer-vacation</id>
+    <content type="html"><![CDATA[<p>7/17-21 Summer family vacation</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preliminary Code Fellows Application Accepted]]></title>
+    <link href="http://geekymamamare.com/blog/2014/02/05/code-fellows-application-accepted/"/>
+    <updated>2014-02-05T20:50:02-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/02/05/code-fellows-application-accepted</id>
+    <content type="html"><![CDATA[<h3>Code sample</h3>
+
+<p>Code sample nearly complete.  I&rsquo;ve been checking into github all along the way.  It makes me feel a bit vulnerable to put the code out there while I&rsquo;m still working on it, but I will wait until I finish before I submit it officially.  Perhaps seeing how I put it together will give them more of a good impression that not.  I hope so.  I find myself being quite self conscious of my code.  My husband asked to take a look at it and has been pouring through it all afternoon&hellip;talk about self consciouness inducing.  Whew!</p>
+
+<h3>Guessing my level</h3>
+
+<p>I am very interested to see if I will qualify for the Silver or the Gold level of boot camp.  Gold means that I can skip the first month-long class and just take the second one.  It will be a lovely savings in time and money, so I am doing my best and we&rsquo;ll see how I rank.  The savings would be nice, but I am more interested in finding out where I place.  I find that sort of metric to be very interesting.  I&rsquo;m guessing that I rank about week 3 of 4 in the first month.  That would still mean that I need to take the first class too, but I&rsquo;ll have a very thorough review for the first week or so.  All to the good.  I could use a good portfolio of code snippets I&rsquo;ve written stored up on github for those code submissions that I&rsquo;ve been told companies are more interested in these days.</p>
+
+<h3>Coding at the lake</h3>
+
+<p>I had a lovely afternoon early this week having a picnic at Rattlesnake Lake with son, husband, and friend.  Perfect weather, not too hot, not too cold.  The others frolicked in the water, as I sat in the shade working out some snarls in my code.  Got all the code fixed that was broken.  Implemented additional code, some even worked right off.  All is unit tested.  Happy family.  Happy mama.</p>
+
+<h3>Blueberries!</h3>
+
+<p>Took another break yesterday morning to take son, husband, and friend blueberry picking at the local farm.  We came home with 16 pounds!  Reaped wonderful rewards at 2am while burning the midnight oil coding, as the smell of blueberry crumble wafted upstairs from the ambitious efforts of my brother&rsquo;s girlfriend.  Oh joy!  The merits of diligence to my work as well as taking time with my family.  I must be doing something right.</p>
+
+<h3>Wrapup</h3>
+
+<p>And now it is time to get back to figuring out that intro video.  I&rsquo;m taking a break from the code for the moment.  I&rsquo;ve done a lot over the last 24 hours, so I should give it a little bit of a rest before I leap in and implement that UI.</p>
+
+<p>~ Geeky Mama Mare ~</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Ready for Bootcamp]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/05/getting-ready-for-bootcamp/"/>
+    <updated>2014-01-05T20:56:47-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/05/getting-ready-for-bootcamp</id>
+    <content type="html"><![CDATA[<p>The news has finally come.  I have been accepted to both silver and gold.  I am excited, pleased, terrified, and eager.  I am torn
+between wishing I&rsquo;d been qualified to skip silver and go straight to gold.  It would have been a nice time and money saver.  I am
+also relieved, in that now I know I will be fully qualified as I start each class and won&rsquo;t be running to catch up a little as I
+go straight into gold.  Additional huge bonus for me will be attending both bootcamps at the same time as my husband.  Sharing the
+commute and sharing the experience together will be, I think, a great benefit for us both.</p>
+
+<p>Now is the big push to try to get the blog launched before bootcamp starts in exactly 3 weeks.  This, on top of getting the ranch
+ready for the rainy season, mostly this means spreading the contents of the compost bins on the pasture before the rain shuts down
+that process for the season.  Additionally, I seem to have gotten it into my head to freeze and can fruits and sauces this year.
+I&rsquo;ve been having fun experimenting with my new canning skills.  Thank you again to good friends who held a Jam Bee where an
+experienced friend taught us how to make and can berry jam.  This gives me a nice way to store my husband&rsquo;s yummy spaghetti
+sauce made with roma tomatoes from my garden.  I feel very domestic and accomplished.  I&rsquo;ll enjoy having the time for these
+sorts of endeavors of love for my family while I am able.  Soon enough, I&rsquo;ll be taking care of my family using different talents.
+It will be nice this winter, when I am thoroughly re-immersed in the working world, to be able to pull out some of those tasty
+summer offerings tucked away on a shelf, brimming with flavors from the sun.  I never really thought of myself as the back to
+nature, hippy type.  But I do love feeding my family so well with local produce.</p>
+
+<p>~ Geeky Mama Mare ~</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Day of Ruby on Rails Bootcamp]]></title>
+    <link href="http://geekymamamare.com/blog/2013/10/07/first-day-of-ruby-on-rails-bootcamp/"/>
+    <updated>2013-10-07T11:47:18-07:00</updated>
+    <id>http://geekymamamare.com/blog/2013/10/07/first-day-of-ruby-on-rails-bootcamp</id>
+    <content type="html"><![CDATA[<p>First day of class</p>
+
+<p>Kai is a very worried little boy.  He seems worried that Papa and I are going away for the next two months.  We tried to reassure him on the way to class, but there is so much we do not yet know about our schedule that I fear we didn&rsquo;t reassure him very well.  As we drove away, Papa and I commited to each other to give Kai some very focused time with each of us every evening.  I think it will be very important to focus on my family in the evenings.  This seems very in sync with CodeFellows, in that they emphasized not staying up late coding, but instead to prioritize getting enough sleep.  Good plan.</p>
+
+<p>Only one other lady in the class.  Makes sense, since they alternate with a ladies only class, so most women probably attend that one.  I could see how intimidating this would be for many women.  It is awesome that they have the choice available.  I&rsquo;m used to this kind of percentage though, since I had the same ratios at university studying for my Computer Engineering (hardware) degree.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Day Before Code Fellows Starts]]></title>
+    <link href="http://geekymamamare.com/blog/2013/10/06/day-before-code-fellows-starts/"/>
+    <updated>2013-10-06T11:35:29-07:00</updated>
+    <id>http://geekymamamare.com/blog/2013/10/06/day-before-code-fellows-starts</id>
+    <content type="html"><![CDATA[<p>Very nervous today.  CodeFellows starts tomorrow.  I&rsquo;m working out my nerves by thoroughly clearning several rooms in the house, knowing that this sort of thing will fall by the wayside for the next two months.</p>
+
+<p>I&rsquo;ve got my laptop backed up, upgraded to OSX 10.8, and made sure everything still works.</p>
+
+<p>My beloved boy is all sorts of worried and stressed by the changes we&rsquo;ve warned him are coming.</p>
+
+<p>Time to get some good sleep before the adventure starts in the morning.</p>
+]]></content>
+  </entry>
+  
+</feed>

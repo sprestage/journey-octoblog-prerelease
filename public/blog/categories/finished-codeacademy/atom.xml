@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: finished CodeAcademy | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/finished-codeacademy/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[RailsTutorial]]></title>
+    <link href="http://geekymamamare.com/blog/2014/03/05/railstutorial/"/>
+    <updated>2014-03-05T22:29:54-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/03/05/railstutorial</id>
+    <content type="html"><![CDATA[<p>5/8 Joined GitHub &amp; started rails tutorial
+5/8-7/6 RailsTutorial</p>
+
+<p>  Finished CodeAcademy (sometime during RailsTutorial, 5/8-7/6)  Finished sometime 5/18 or later.</p>
+]]></content>
+  </entry>
+  
+</feed>

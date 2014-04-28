@@ -3,7 +3,9 @@ layout: post
 title: "Day 20, last day of Silver. I made it to GOLD!"
 date: 2013-11-01 14:48:17 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
 
   Oh.  Em.  Gee.

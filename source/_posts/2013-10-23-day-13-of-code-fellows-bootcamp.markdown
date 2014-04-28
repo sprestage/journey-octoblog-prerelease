@@ -3,7 +3,9 @@ layout: post
 title: "Day 13 of Code Fellows Bootcamp"
 date: 2013-10-23 12:50:52 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
   I sacrifices sleeping in last night.  Well, not last night, but this
 morning.  That's my story and I'm sticking to it.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Seattle Girl Geek Dinner | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/seattle-girl-geek-dinner/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Seattle Girl Geek Dinner - meet Code Fellows]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/20/seattle-girl-geek-dinner-meet-code-fellows/"/>
+    <updated>2014-01-20T22:39:39-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/20/seattle-girl-geek-dinner-meet-code-fellows</id>
+    <content type="html"><![CDATA[<p>8/20  Seattle Girl Geek Dinner, sponsored by Code Fellows</p>
+]]></content>
+  </entry>
+  
+</feed>

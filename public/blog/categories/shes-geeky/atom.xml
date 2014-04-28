@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: She's Geeky | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/shes-geeky/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-04-28T00:31:11-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[She's Geeky]]></title>
+    <link href="http://geekymamamare.com/blog/2014/03/10/shes-geeky/"/>
+    <updated>2014-03-10T23:28:23-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/03/10/shes-geeky</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

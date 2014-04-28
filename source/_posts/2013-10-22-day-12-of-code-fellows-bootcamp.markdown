@@ -3,7 +3,9 @@ layout: post
 title: "Day 12 of Code Fellows Bootcamp"
 date: 2013-10-22 16:03:22 -0800
 comments: true
-categories: 
+categories:
+- Code Fellows
+- bootcamp
 ---
 
   Still behind, but finding my rhythm.

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "CodeChix"
+date: 2014-03-20 23:06:42 -0700
+comments: true
+categories:
+- CodeChix
+- DevChix
+- Shaili Guru
+- C#
+---
+  Found CodeChix, probably through DevChix (first noticed 4/4/13), attended intro to C# (pt2) by Shaili Guru
