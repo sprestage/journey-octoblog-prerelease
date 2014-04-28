@@ -4,10 +4,9 @@ title: "Preliminary Code Fellows Application Accepted"
 date: 2014-02-05 20:50:02 -0800
 comments: true
 categories:
-- coding
-- code sample
 - Code Fellows
-- coding at lake
+- coding in beautiful places
+- code sample
 - blueberries
 - family
 ---

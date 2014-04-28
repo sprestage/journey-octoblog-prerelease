@@ -4,9 +4,8 @@ title: "Coding at the Festival"
 date: 2014-01-30 20:52:40 -0800
 comments: true
 categories:
-- coding
 - code sample
-- beautiful environment
+- coding in beautiful places
 ---
 It is a beautiful, partly cloudy afternoon at the Festival at Mt Si here in my little home town.  I am ensconced on a blanket on the grass, leaning against a large tree in a thoroughly shady spot.  There is a nice breeze.  The band playing nearby is a pleasant backdrop to the pleasant murmur of my neighbors and their children enjoying a lovely summer afternoon.
 

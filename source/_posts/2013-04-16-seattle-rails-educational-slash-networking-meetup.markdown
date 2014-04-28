@@ -5,7 +5,8 @@ date: 2014-03-15 23:04:01 -0700
 comments: true
 categories:
 - Seattle Rails
-- networking meetup
+- networking
+- meetups
 - ruby community welcome
 ---
 Seattle Rails Educational/Networking Meetup:  This was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.

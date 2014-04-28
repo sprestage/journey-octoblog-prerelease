@@ -7,6 +7,6 @@ categories:
 - family
 - summer
 - vacation
-- started writing for eventual journy blog
+- started writing for eventual journey blog
 ---
 7/17-21 Summer family vacation

@@ -6,9 +6,9 @@ comments: true
 categories:
 - ruby koans
 - CodeAcademy
-- NorWesCon panels
-- return to programming
-- meetup groups
+- NorWesCon
+- programming roots
+- meetups
 - She's Geeky unconference
 - a new plan
 ---

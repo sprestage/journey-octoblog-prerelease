@@ -6,7 +6,6 @@ comments: true
 categories:
 - Code Fellows
 - coding
-- more coding
 - bigger code sample
 - crunch time
 ---
