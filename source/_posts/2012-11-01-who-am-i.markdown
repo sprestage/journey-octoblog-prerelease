@@ -4,9 +4,9 @@ title: "Who Am I?"
 date: 2014-04-25 22:43:52 -0800
 comments: true
 categories:
-- my horses
-- my family
-- my geekiness
+- horses
+- family
+- geekiness
 ---
 -----------
   OUTLINE

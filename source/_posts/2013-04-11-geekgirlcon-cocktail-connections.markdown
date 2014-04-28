@@ -4,7 +4,8 @@ title: "GeekGirlCon Cocktail Connections"
 date: 2014-03-25 23:00:35 -0700
 comments: true
 categories:
-- GeekGirlCon meetup
+- GeekGirlCon
+- meetups
 - networking with women
 - conversation practice
 ---
