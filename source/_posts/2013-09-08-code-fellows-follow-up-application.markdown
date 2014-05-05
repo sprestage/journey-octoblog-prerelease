@@ -11,4 +11,5 @@ categories:
 ---
 timeline:9/8-9/9 CodeFellows follow up application (3 apps over 4 days, Yikes!!!)
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

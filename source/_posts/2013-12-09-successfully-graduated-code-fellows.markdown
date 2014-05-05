@@ -9,4 +9,5 @@ categories:
 ---
 12/9  Graduated CodeFellows
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

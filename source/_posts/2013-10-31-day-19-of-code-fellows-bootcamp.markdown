@@ -25,4 +25,5 @@ I'm at the point where I'm thinking code almost every minute of the day. I
 chew on it in my dreams, I wake up wanting to sit down at my computer and
 work on this or that. And I go to bed early with my son exausted and wishing I had more resources. The whole family is showing signs of the draining fatigue from this amazing experience. The price is very high for all of us, but we are all committed and pulling together for the benefits to us all will be enduring and worth it. And to be honest, the day-by-day experience is worth it.  Exhausting as hell, but worth it.  And I remember that, most of the time.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

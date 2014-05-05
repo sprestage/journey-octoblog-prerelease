@@ -40,4 +40,5 @@ And now, as I commute home, in the autumn dusk, I bask in the beauty of the rand
 And now I go home to spend a lovely weekend with son, family, ranch, and
 sleep.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

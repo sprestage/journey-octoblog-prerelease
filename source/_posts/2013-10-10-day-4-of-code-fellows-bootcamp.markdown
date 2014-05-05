@@ -21,4 +21,5 @@ Two women in a class of 21.  I understand very well why they have a women only b
 
 Ok, cleaning up to go try again.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

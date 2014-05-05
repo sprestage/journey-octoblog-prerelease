@@ -9,7 +9,7 @@ footer: true
 
 I am the Geeky Mama Mare. Welcome to my blog.
 
-I am on a journey to re-find my passion in technology and in my career. I spent 20 years testing software in the computer industry, but after losing a dream job, I discovered I’d lost my love and inspiration in technology. I felt lost and frightened and confused. I have long identified myself as an engineer and have an eager love of things geeky. How could I have lost my way?
+I am on a journey to re-find and <b>keep</b> my passion in technology and in my career. I spent 20 years testing software in the computer industry, but after losing a dream job, I discovered I’d lost my love and inspiration in technology. I felt lost and frightened and confused. I have long identified myself as an engineer and have an eager love of things geeky. How could I have lost my way?
 
 Thus began a time of self discovery and learning. Along the way I have learned to network with and support other women, especially those in STEM (science, technology, engineering, and math). I’m still learning to grow past my anxiety in socializing with those of my own gender. There has been and will be a great deal of hard work and time needed to effectively learn and apply my new skills. But I have just come back from one of the scariest times of my life with purpose and excitement; this gives me hope and the strength I will need.
 

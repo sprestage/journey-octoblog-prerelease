@@ -20,4 +20,5 @@ I'm still behind and don't know how I'm going to catch up, but in some ways, I'm
 I would absolutely do this again, and very much believe that I am on the
 right path. I think about what I used to do in my job and it still shuts me down inside, and now I think about what I'm doing with a smile on my face and a spring in my step, even at home, staring off in the distance, musing about some little change I want to make in my portfolio.  This is the passion I want I see in my day to day career, and I could not be more pleased that it is back.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

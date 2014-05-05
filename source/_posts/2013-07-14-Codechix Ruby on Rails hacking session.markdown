@@ -13,4 +13,5 @@ July 14th, 2013
 
 7/14  First ruby/rails ladies meetup (thanks to codechix and Shaili Guru)
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

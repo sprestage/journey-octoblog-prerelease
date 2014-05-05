@@ -34,4 +34,5 @@ important that is. And why I want to seek it out.  For myself and to nurture it 
 
 Blog Notes: I tried to take the time during my commute daily to simply admire autumn's beauty dripping its colors through the trees. The mists drift over the waterways, sometimes shrouding my valley in white. And then a spear of sunlight pierces the mists, striking in its contrast.s
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

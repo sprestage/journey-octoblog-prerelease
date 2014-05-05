@@ -8,4 +8,5 @@ categories:
 - bootcamp
 ---
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

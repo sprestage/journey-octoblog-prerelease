@@ -12,4 +12,5 @@ categories:
 
   Finished CodeAcademy (sometime during RailsTutorial, 5/8-7/6)  Finished sometime 5/18 or later.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

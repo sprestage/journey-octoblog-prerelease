@@ -12,4 +12,5 @@ August 20th, 2013
 
 8/20  Seattle Girl Geek Dinner, sponsored by Code Fellows
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

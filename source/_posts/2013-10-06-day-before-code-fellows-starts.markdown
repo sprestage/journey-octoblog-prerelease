@@ -19,4 +19,5 @@ My beloved boy is all sorts of worried and stressed by the changes we've warned 
 
 Time to get some good sleep before the adventure starts in the morning.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

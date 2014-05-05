@@ -23,4 +23,5 @@ Right....?
 
 Thinking about things outside of boot camp is getting very hard. Right now the learning is taking over my braaaaain.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

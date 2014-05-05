@@ -17,4 +17,5 @@ Kai is a very worried little boy.  He seems worried that Papa and I are going aw
 
 Only one other lady in the class.  Makes sense, since they alternate with a ladies only class, so most women probably attend that one.  I could see how intimidating this would be for many women.  It is awesome that they have the choice available.  I'm used to this kind of percentage though, since I had the same ratios at university studying for my Computer Engineering (hardware) degree.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

@@ -15,4 +15,5 @@ My free range son is running around, encountering friends, exhausting himself in
 
 And now, back to some more ruby coding.  I've got to hurry up and finish that code for round two of the CodeFellows application.  I've got a fun idea that has come together very well, so I am excited to get it ready for submission.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

@@ -16,4 +16,5 @@ I finally heard back from CodeFellows.  I'm in!  Both Silver and Gold.
 
 Yeay!
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

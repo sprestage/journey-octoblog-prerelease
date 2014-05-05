@@ -4,7 +4,7 @@
   <title><![CDATA[A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-04T23:19:44-07:00</updated>
+  <updated>2014-05-05T15:50:09-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -14,63 +14,72 @@
 
   
   <entry>
-    <title type="html"><![CDATA[An introduction]]></title>
-    <link href="http://geekymamamare.com/blog/2014/04/27/an-introduction/"/>
+    <title type="html"><![CDATA[How my journey begins]]></title>
+    <link href="http://geekymamamare.com/blog/2014/04/27/how-my-journey-begins/"/>
     <updated>2014-04-27T22:49:04-07:00</updated>
-    <id>http://geekymamamare.com/blog/2014/04/27/an-introduction</id>
-    <content type="html"><![CDATA[<p>Intro post
-by GeekyMamaMare
-May 8, 2013</p>
+    <id>http://geekymamamare.com/blog/2014/04/27/how-my-journey-begins</id>
+    <content type="html"><![CDATA[<h3>My introduction</h3>
 
-<p>My new adventure begins.</p>
+<p>Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let&rsquo;s start by looking at the dilemna I found myself in.</p>
 
-<p>My name is Susan Prestage.  I&rsquo;ve been a quality engineer in the computer industry for 20 years.  In the summer of 2011, my dream job fell through my hands and I was left devastated.  I quickly realized that I was far to emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.  A year passed and I refreshed my resume and leapt back into the job seeking pool.  I have been fortunate in the past that each job came along just as it was needed, usually through networking, and generally right along the lines of where I wanted my career to go.  This time was a different experience.  None of the jobs available seemed to be a good fit for my skills or my experience.  I also was beginning to discover a lack of motivation in my search.  It was as if my passion for technology and computers was missing.  I took a bit of time to figure out my priorities and what made me eager to go to work in the morning, only to discover that I really wasn&rsquo;t seeing anything available in the job market that made me eager to leave my family, my son, my ranch, and my horses in the morning.  My new goals started to come clear.  I wanted to renew my passion for technology such that I could find a company to contribute to that made me as eager to head to the office in the morning as I was to return to my beloved ranch in the evening.</p>
+<h3>Broken heart</h3>
+
+<p>I had been a quality engineer in the computer industry for 20 years, when, in the summer of 2011, my dream job fell through my hands.  I was devastated.  I quickly realized that I was far too emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.</p>
+
+<h3>Where&rsquo;s the passion?</h3>
+
+<p>A year passed and I refreshed my resume and leapt back into the job seeking pool.  I have been fortunate in the past that each job came along just as it was needed, usually through networking, and generally right along the lines of where I wanted my career to go.  This time was a different experience.  None of the jobs available seemed to be a good fit for my skills or my experience.  I also was beginning to discover a lack of motivation in my search.  It was as if my passion for technology and computers was missing.</p>
+
+<h3>Identifying my priorities</h3>
+
+<p>I took a bit of time to figure out my priorities and what made me eager to go to work in the morning, only to discover that I really wasn&rsquo;t seeing anything available in the job market that made me eager to leave my family, my son, my ranch, and my horses in the morning.</p>
+
+<p>My new goals started to come clear.</p>
+
+<h3>My goal</h3>
+
+<p>I wanted to renew my passion for technology such that I could find a company to contribute to that made me as eager to head to the office in the morning as I was to return to my beloved ranch in the evening.</p>
 
 <p>Ok, good goal.  Now to develop a plan to take me towards that goal.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Who Am I?]]></title>
+    <title type="html"><![CDATA[Who Am I]]></title>
     <link href="http://geekymamamare.com/blog/2014/04/25/who-am-i/"/>
     <updated>2014-04-25T23:43:52-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/04/25/who-am-i</id>
-    <content type="html"><![CDATA[<hr />
+    <content type="html"><![CDATA[<p>To make a goal, I find it important to know who you are, why you are that way, and what is important to you.</p>
 
-<h2>  OUTLINE</h2>
+<p>The most important aspects of my life all fall into three categories.  My horses, my family, and my geekiness.  Everything I do in life ties into at least one of these.</p>
 
-<p>Title: &ldquo;Who are you?&rdquo; and &ldquo;What do you want?&rdquo;</p>
-
-<ol>
-<li><p>intro - name, handle</p></li>
-<li><p>I am mare</p></li>
-<li><p>I am mama</p></li>
-<li><p>I am geeky</p></li>
-<li><p>I am becoming a ruby on rails dev</p></li>
-</ol>
-
-
-<hr />
-
-<h2> FIRST DRAFT</h2>
-
-<p>&ldquo;Who are you?&rdquo; and &ldquo;What do you want?&rdquo;</p>
-
-<p>Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let&rsquo;s start by looking at who I am now.  The most important aspects of my life all fall into three categories.  My horses, my family, and my geekiness.  Everything I do in life ties into at least one of these.</p>
+<h3>Horses</h3>
 
 <p>I&rsquo;ve been involved with horses my entire life.  They inspire me.  I love them deeply and their presence in my life is one of the foundations of my happiness and life satisfaction.  After hoping and planning from my early to mid-teens, I finally have my dream ranch and my horse breeding program.  I am working toward breeding honest, clever, and well-moving young horses that will, I hope, become that long sought after equine partner for the aspiring rider looking for just the right equine friend.  A challenging goal.  Intelligent horses can be a wonderful challenge to raise, but very rewarding as well.  My careful breeding choices are taking care of the intelligence and athleticism.  The daily focus of to raise and train up the youngsters in a loving but disciplined environment to produce and nurture their good and willing nature.</p>
 
+<h3>Family</h3>
+
 <p>I am blessed with a wonderful family.  Most of all, by my son.  I am absolutely biased as any mother would be.  I find my son to be beautiful, very bright, energetic, loving and kind, gentle, a great adventuring partner, and a delight to watch learn and grow.  I am also incredibly lucky in that he seems to share my love of horses and things geeky.  I felt like I won the baby lottery when he was born back in 2009 and have felt that even more so as the years pass.  Certainly, he goes through the various challenges and foibles of every youngster, but I still feel like we have an easier time of it than most, and am very grateful to be so blessed.  I am also fortunate, especially in this journey of re-discovery, to have an understanding and supportive family.  It can be very difficult to change a career in midlife, especially with all the learning, studying, and growing that are involved in that process.  They were very worried about me as I realized I&rsquo;d lost my passion in technology.  And now they are encouraging, patient, and supportive as I learn and grow.  It can be very hard for the family at such a time.  I am so glad that they are behind me all the way.  I am very lucky.  I could be making these changes without their support.</p>
 
+<h3>My geeky history</h3>
+
 <p>In some ways, I was very sheltered while growing up in California&rsquo;s San Joaquin valley.  I had my horses, my books, a few friends, and a hugely active imagination.  I was mostly busy in my own world of pretend, but not too much so.  I was an adequate student without trying.  I was somewhat social as well as somewhat athletic.  I was also a voracious reader.  This last was probably what led me to declare myself &ldquo;weird&rdquo; in ninth grade.  I&rsquo;m not sure what I was going for at the time, but in hindsight, I was very right.  It was hard to be interested in elclectic, odd, and alternative things in the area where I grew up, since mainstream culture was almost all that was available.  But libraries were a good friend to me and my active imagination combined with new ideas and worlds and creatures from books allowed me to explore my &ldquo;weirdness&rdquo; or what I now call my geekiness.  As an adult, I moved to the San Francisco Bay Area and eventually to Santa Cruz where I found many other geeky people and interests to pursue.  I discovered Sci Fi/Fantasy conventions, the SCA, gaming, electronics, and so much more.  I worked hard at the local community college getting my core classes out of the way, then transferred to UC Santa Cruz, where I discovered that instead of majoring in programming, I could major in computer engineering, playing with chips, resistors, capacitors, and wiring, while taking programming classes as upper division electives.  So much fun!  I am still an electronics hobbiest and delight in pulling out my old soldering gun.</p>
+
+<h3>My career so far</h3>
 
 <p>When just beginning my career with computers, there was a huge hiring freeze all through Silicon Valley.  This made finding a programming job very difficult for someone still in college.  I got an opportunity, but it started me on the path of software testing instead of programming.  I was initially a little unsatisfied, but eventually grew to love breaking software.  This satisfied me for a long while.  But eventually it was not enough.  I eventually landed my dream job in testing.  I was working with a product that I respected, with technology I enjoyed, with colleagues that were fun and challenging to work with, creating a product that was making a real difference in the world.  But it was a very small company.  And small companies must grow.  And when small companies grow, they change.  And often, those changes create a culture and a company mission that was not what it once was.  Parting with my dream job in the end was painful and made me quesion myself, my abilities, and my passion in technology entirely.  I spent that next year pursuing interests around my family and my horses in order to recover, since I was in no condition to market myself to a new company.  I eventually found my balance again, updated and polished up the ole resume, and dove into the job search.  I was ready to return to work.  I thought.  But as the weeks and then months passed, none of the job listings seemed right.  They were looking for skills I neither had nor wanted, or were working on things that held no interest.  I felt my passion for technology falling to the wayside, in the face of the drab, the mundane, the stultifying.  It was a low moment indeed.</p>
 
 <p>Thus begins my journey.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -79,7 +88,15 @@ May 8, 2013</p>
     <link href="http://geekymamamare.com/blog/2014/04/20/what-do-i-want/"/>
     <updated>2014-04-20T21:19:07-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/04/20/what-do-i-want</id>
-    <content type="html"><![CDATA[<p>An old friend from my old Santa Cruz days visited over Thanksgiving.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn&rsquo;t have anyone I felt like I could turn to.  You see, I&rsquo;m a very strong personality.  Small surprise there, I know.  But what this ends up meaning is that for all I seem very strong and able on the outside, I have a lot of doubt and weakness on the inside.  I feel like so many people look up to me (I still am perplexed by this), that none of them feel to me like they are strong enough and have the perpective to be someone I can lean one and turn to when I&rsquo;m feeling week and in need of someone who sees me as just a person.  With faults and foibles, but loves me deeply and can give me that support that only a friend who has known you for many years can give you.  The kind of support that sometimes involves a boot in the arse.  Thank you, dear Kallie.</p>
+    <content type="html"><![CDATA[<h3>Thanksgiving visit</h3>
+
+<p>An old friend from my old Santa Cruz days visited over Thanksgiving.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn&rsquo;t have anyone I felt like I could turn to.</p>
+
+<h3>Turning to others is hard</h3>
+
+<p>You see, I&rsquo;m a very strong personality.  Small surprise there, I know.  But what this ends up meaning is that for all I seem very strong and able on the outside, I have a lot of doubt and weakness on the inside.  I feel like so many people look up to me (I still am perplexed by this), but none of them feel to me like they are strong enough and have the perpective to be someone I can lean one and turn to when I&rsquo;m feeling week and in need of someone who sees me as just a person.  Sees me with my faults and foibles, but loves me deeply and so can give me that support that only a friend who has known you for many years can give you.  The kind of support that sometimes involves a boot in the arse.  Thank you, dear Kallie.</p>
+
+<h3>Rediscovering my geekery</h3>
 
 <p>She reminded me of the things I find important.  And that my weakness was part of my strength and definitely part of my appeal.  She showed me the beginnings of the support that women can give one another.  And I started to discover some of the strength found from the support of other engineering women.  She reminded me, through many delightfully geeky conversations of my love for engineering, right down to the ones and zeros of circuit design.  To be sure I&rsquo;d learned the lesson, this valued friend sent me a LED clock engineering kit for my birthday in the beginning of 2013.  It wasn&rsquo;t very long before I took the time to start soldering the pieces of that clock.  So. Much. Fun.</p>
 
@@ -87,7 +104,10 @@ May 8, 2013</p>
 
 <p>OK, so now what&hellip;?</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -100,7 +120,10 @@ May 8, 2013</p>
 
 <p>Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.  Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I&rsquo;ve managed to avoid this side of the industry until now.  But now, it seems to be the standard.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -115,7 +138,10 @@ May 8, 2013</p>
 
 <p>Spring brought with it one of the local science fiction conventions.  There were several panels that got me thingking about women in technology, networking within my industry, and how to re-find my passion in technology.  I decided it was time to pick back up my long abandoned pursuit of programming and to start networking with other women in technology for mutual support and growth.  I had dabbled with Ruby a couple of years ago at the recommendation of a friend and colleague, so I decided on Ruby on Rails as a good and enjoyable path toward my goal.  I joined several relevent local meetup groups and then I learned of She&rsquo;s Geeky 13, Seattle.  Attending this un-conference made all the difference in the world and confirmed the wisdom of my ideas.  I finalized my plan for re-purposing my career with the attendant studying, learning, networking needed  over the next several months to change my career from being a 20 year software tester, to being a newby Ruby on Rails developer.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -128,7 +154,10 @@ May 8, 2013</p>
 
 <p>So, back to the plan to renew that passion and prepare for my reentry into the workforce.  This spring, I went to our local annual literary convention and attended several panels about women in STEM (science, technology, engineering, math) and women networking with women.  Most of my social connections previously have been with men, so networking with women was a bit frightening.  But, I needed to get out more and freshen my networking skills as a preparation for interviewing so I plunged forward.  I chose a couple of venues to start with.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -139,7 +168,10 @@ May 8, 2013</p>
     <id>http://geekymamamare.com/blog/2014/03/30/codeacademy</id>
     <content type="html"><![CDATA[<p>Finally got going with CodeAcademy.  Have been very active since signing up.  I seem to recall thinking about it for a week or two before I was ready to comit.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -152,7 +184,10 @@ May 8, 2013</p>
 
 <p>GeekGirlCon meetup: This is a meetup for the purpose of networking with other geeky women.  It seemed like a good first step to get me started on networking.  It turned out that these are good and friendly folk.  We were all mostly new, but that helped somewhat.  I introduced myself to a number of folks and worked on those introduction sorts of conversations.  Some were more successful that others.  I&rsquo;m glad I went.  This was a good training event.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -163,7 +198,10 @@ May 8, 2013</p>
     <id>http://geekymamamare.com/blog/2014/03/20/codechix</id>
     <content type="html"><![CDATA[<p>  Found CodeChix, probably through DevChix (first noticed 4/4/13), attended intro to C# (pt2) by Shaili Guru</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -176,7 +214,10 @@ May 8, 2013</p>
 
 <p>Seattle Rails Educational/Networking Meetup:  This was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -187,7 +228,12 @@ May 8, 2013</p>
     <id>http://geekymamamare.com/blog/2014/03/10/shes-geeky</id>
     <content type="html"><![CDATA[<p>April 26th &amp; 27th, 2013</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p>I came out of this experience realizing that I was on an amazing journey.  I also realized the importance of sharing my travels so that other people, particularly women, could see a path that could be taken, and that great change can be made by normal people.  I first put &ldquo;pen&rdquo; to this blog of my journey on May 8, 2013.</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -201,7 +247,10 @@ May 8, 2013</p>
 
 <p>  Finished CodeAcademy (sometime during RailsTutorial, 5/8-7/6)  Finished sometime 5/18 or later.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -214,7 +263,10 @@ May 8, 2013</p>
 
 <p>7/14  First ruby/rails ladies meetup (thanks to codechix and Shaili Guru)</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -225,7 +277,10 @@ May 8, 2013</p>
     <id>http://geekymamamare.com/blog/2014/02/20/family-summer-vacation</id>
     <content type="html"><![CDATA[<p>7/17-21 Summer family vacation</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -250,7 +305,12 @@ May 8, 2013</p>
 <p>I am elated to have made it to the next round.  I am also eager and nervous about the next requirements.  Oooo.  I think I
 have a cool idea.  Off to see what I can work out.  Looks like the family will need to share me with technology this weekend.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+
+
 ]]></content>
   </entry>
   
@@ -281,7 +341,10 @@ have a cool idea.  Off to see what I can work out.  Looks like the family will n
 
 <p>And now it is time to get back to figuring out that intro video.  I&rsquo;m taking a break from the code for the moment.  I&rsquo;ve done a lot over the last 24 hours, so I should give it a little bit of a rest before I leap in and implement that UI.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -298,7 +361,10 @@ have a cool idea.  Off to see what I can work out.  Looks like the family will n
 
 <p>And now, back to some more ruby coding.  I&rsquo;ve got to hurry up and finish that code for round two of the CodeFellows application.  I&rsquo;ve got a fun idea that has come together very well, so I am excited to get it ready for submission.</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -311,7 +377,10 @@ have a cool idea.  Off to see what I can work out.  Looks like the family will n
 
 <p>8/20  Seattle Girl Geek Dinner, sponsored by Code Fellows</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -322,7 +391,10 @@ have a cool idea.  Off to see what I can work out.  Looks like the family will n
     <id>http://geekymamamare.com/blog/2014/01/15/code-fellows-follow-up-application</id>
     <content type="html"><![CDATA[<p>timeline:9/8-9/9 CodeFellows follow up application (3 apps over 4 days, Yikes!!!)</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   
@@ -339,7 +411,10 @@ have a cool idea.  Off to see what I can work out.  Looks like the family will n
 
 <p>Yeay!</p>
 
-<p>~ Geeky Mama Mare ~</p>
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
 ]]></content>
   </entry>
   

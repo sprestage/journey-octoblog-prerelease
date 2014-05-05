@@ -19,7 +19,8 @@ Because, dammit, if I can get through this and succeed you can, too.
 
 Now if I can just hold it together long enough to get through Day 3 of class.  One day at a time.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>
 
 
 NOTE Meticulous attention to detail may be setting me up to lose.

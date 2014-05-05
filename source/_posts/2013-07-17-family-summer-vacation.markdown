@@ -11,4 +11,5 @@ categories:
 ---
 7/17-21 Summer family vacation
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

@@ -27,4 +27,5 @@ Took another break yesterday morning to take son, husband, and friend blueberry 
 ###Wrapup
 And now it is time to get back to figuring out that intro video.  I'm taking a break from the code for the moment.  I've done a lot over the last 24 hours, so I should give it a little bit of a rest before I leap in and implement that UI.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

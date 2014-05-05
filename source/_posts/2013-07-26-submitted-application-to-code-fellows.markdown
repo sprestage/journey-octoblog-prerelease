@@ -22,5 +22,6 @@ Now, I just have to:
 I am elated to have made it to the next round.  I am also eager and nervous about the next requirements.  Oooo.  I think I
 have a cool idea.  Off to see what I can work out.  Looks like the family will need to share me with technology this weekend.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>
 

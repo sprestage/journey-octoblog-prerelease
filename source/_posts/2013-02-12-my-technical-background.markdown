@@ -10,4 +10,5 @@ First, some history to know where I come from, technologically.  I discovered a 
 
 Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.  Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I've managed to avoid this side of the industry until now.  But now, it seems to be the standard.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

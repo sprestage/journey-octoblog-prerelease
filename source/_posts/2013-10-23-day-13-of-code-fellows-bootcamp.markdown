@@ -14,4 +14,5 @@ morning.  That's my story and I'm sticking to it.  I'm still feeling dreadfully 
 
 And maybe catch up on a little sleep this weekend.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

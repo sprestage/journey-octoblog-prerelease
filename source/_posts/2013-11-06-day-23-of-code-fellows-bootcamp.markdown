@@ -27,4 +27,5 @@ meet her and speak with her further about the Ada Academy.
 
 The presentation went well.  The Adas in particular were a very appreciative audience and took the time later to say how much they enjoyed it.  I went home exhausted, it being several hours after my usual bedtime, but feeling strong in the path I've chosen and where it's taking me.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>

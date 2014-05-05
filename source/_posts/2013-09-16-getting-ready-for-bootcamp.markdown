@@ -17,4 +17,5 @@ Now is the big push to try to get the blog launched before bootcamp starts in ex
 I'll enjoy having the time for these sorts of endeavors of love for my family while I am able.  Soon enough, I'll be taking care of my family using different talents.  It will be nice this winter, when I am thoroughly re-immersed in the working world, to be able to pull out some of those tasty summer offerings tucked away on a shelf, brimming with flavors from the sun.  I never really thought of myself as the back to
 nature, hippy type.  But I do love feeding my family so well with local produce.
 
-~ Geeky Mama Mare ~
+<br>
+<center>~ Geeky Mama Mare ~</center>
