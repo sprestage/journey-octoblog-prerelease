@@ -7,6 +7,7 @@ categories:
 - Code Fellows
 - preliminary application
 ---
+July 26th, 2013
 
 Today I finally took a big and scary step.  I wrote and submitted my application to CodeFellows for the Ruby on Rails bootcamp this late fall.  I took my time and gave thoughtful responses and felt pretty good about it.  Less than an hour later, I already had a response.  On a Friday late afternoon!
 

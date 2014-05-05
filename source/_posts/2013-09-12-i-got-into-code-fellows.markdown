@@ -8,6 +8,8 @@ categories:
 - acceptance
 - congratulations
 ---
+September 12th, 2013
+
 Official Code Fellows Acceptance
 
 I finally heard back from CodeFellows.  I'm in!  Both Silver and Gold.

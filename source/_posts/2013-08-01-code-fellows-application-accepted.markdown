@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preliminary Code Fellows Application Accepted"
+title: "Preliminary Code Fellows application accepted"
 date: 2014-02-05 20:50:02 -0800
 comments: true
 categories:
@@ -10,6 +10,8 @@ categories:
 - blueberries
 - family
 ---
+August 1st, 2013
+
 ###Code sample
 Code sample nearly complete.  I've been checking into github all along the way.  It makes me feel a bit vulnerable to put the code out there while I'm still working on it, but I will wait until I finish before I submit it officially.  Perhaps seeing how I put it together will give them more of a good impression that not.  I hope so.  I find myself being quite self conscious of my code.  My husband asked to take a look at it and has been pouring through it all afternoon...talk about self consciouness inducing.  Whew!
 

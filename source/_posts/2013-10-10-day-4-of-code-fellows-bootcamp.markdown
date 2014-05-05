@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Day 4 of Code Fellows Bootcamp"
-date: 2013-10-10 18:47:42 -0800
+title: "Day 4 of Code Fellows bootcamp"
+date: 2013-12-10 18:47:42 -0800
 comments: true
 categories:
 - Code Fellows
 - bootcamp
 ---
+October 10th, 2013
 
 In the middle of the afternoon lab, fighting with things that are not working.  I have experienced one of the typical problems for women in STEM.  We are simply not heard.  9 students all working with an instructor, trying to work together to get us all through a difficult issue.  Two of my male classmates are starting to have success.  I ask them questions several times.  I say their names.  But not once do they look up or hear me.  Note, they are the two people closest to me.  One is RIGHT next to me.  One is in front of me.
 

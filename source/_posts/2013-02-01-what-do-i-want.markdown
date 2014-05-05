@@ -13,4 +13,8 @@ An old friend from my old Santa Cruz days visited over Thanksgiving.  I was pret
 
 She reminded me of the things I find important.  And that my weakness was part of my strength and definitely part of my appeal.  She showed me the beginnings of the support that women can give one another.  And I started to discover some of the strength found from the support of other engineering women.  She reminded me, through many delightfully geeky conversations of my love for engineering, right down to the ones and zeros of circuit design.  To be sure I'd learned the lesson, this valued friend sent me a LED clock engineering kit for my birthday in the beginning of 2013.  It wasn't very long before I took the time to start soldering the pieces of that clock.  So. Much. Fun.
 
-Hey.  There it is.  My joy in engineering.  Still there, without a doubt.  OK, so now what...?
+Hey.  There it is.  My joy in engineering.  Still there, without a doubt.
+
+OK, so now what...?
+
+~ Geeky Mama Mare ~

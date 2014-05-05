@@ -9,3 +9,6 @@ categories:
 - networking with women
 - imposter syndrome
 ---
+April 26th & 27th, 2013
+
+~ Geeky Mama Mare ~

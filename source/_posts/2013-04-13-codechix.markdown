@@ -10,3 +10,5 @@ categories:
 - C#
 ---
   Found CodeChix, probably through DevChix (first noticed 4/4/13), attended intro to C# (pt2) by Shaili Guru
+
+~ Geeky Mama Mare ~
