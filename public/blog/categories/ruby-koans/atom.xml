@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby koans | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/ruby-koans/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-05T15:50:26-07:00</updated>
+  <updated>2014-05-06T13:26:43-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -14,15 +14,21 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Remembering Ruby]]></title>
-    <link href="http://geekymamamare.com/blog/2014/04/10/remembering-ruby/"/>
-    <updated>2014-04-10T22:14:04-07:00</updated>
-    <id>http://geekymamamare.com/blog/2014/04/10/remembering-ruby</id>
-    <content type="html"><![CDATA[<p>Remembering a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and the fun I had exploring that, I did a bit of idle research investigating online learning resources for Ruby.  I stumbled upon CodeAcademy&hellip;</p>
+    <title type="html"><![CDATA[CodeAcademy]]></title>
+    <link href="http://geekymamamare.com/blog/2014/03/18/codeacademy/"/>
+    <updated>2014-03-18T23:09:43-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/03/18/codeacademy</id>
+    <content type="html"><![CDATA[<h3>Ruby?</h3>
 
-<p>&hellip;</p>
+<p>Remembering a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back, I also remembered the fun I had exploring Ruby and how easy Ruby made things.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
 
-<p>Spring brought with it one of the local science fiction conventions.  There were several panels that got me thingking about women in technology, networking within my industry, and how to re-find my passion in technology.  I decided it was time to pick back up my long abandoned pursuit of programming and to start networking with other women in technology for mutual support and growth.  I had dabbled with Ruby a couple of years ago at the recommendation of a friend and colleague, so I decided on Ruby on Rails as a good and enjoyable path toward my goal.  I joined several relevent local meetup groups and then I learned of She&rsquo;s Geeky 13, Seattle.  Attending this un-conference made all the difference in the world and confirmed the wisdom of my ideas.  I finalized my plan for re-purposing my career with the attendant studying, learning, networking needed  over the next several months to change my career from being a 20 year software tester, to being a newby Ruby on Rails developer.</p>
+<h3>CodeAcademy</h3>
+
+<p>I found CodeAcademy and spent most of April and May working my way through tier Ruby, JavaScript, and JQuery offerings.  Their lessons are pretty basic introductions, but are a fun introduction and free.  I hadn&rsquo;t really meant to do the JS and JQuery lessons, but the Ruby lesson was broken for a while.  I enjoyed the gamification of the coding lessons, where I could earn a personal high score in Points Today, Day Streak, Total Points, and Badges Completed.</p>
+
+<h3>Coding!</h3>
+
+<p>I was rapidly starting to believe that Ruby on Rails may well be a good and enjoyable start along my path towards my goal.</p>
 
 <p><br></p>
 

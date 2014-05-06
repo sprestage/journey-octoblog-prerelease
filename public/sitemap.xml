@@ -88,7 +88,7 @@
     </url>
     <url>
         <loc>
-            http://geekymamamare.com/blog/2014/02/25/Codechix+Ruby+on+Rails+hacking+session/
+            http://geekymamamare.com/blog/2014/02/25/codechix-ruby-on-rails-hacking-session/
         </loc>
         <lastmod>2014-05-05T15:44:23-07:00</lastmod>
     </url>
@@ -98,49 +98,45 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/03/10/shes-geeky/</loc>
-        <lastmod>2014-05-05T15:41:00-07:00</lastmod>
+        <lastmod>2014-05-06T13:22:48-07:00</lastmod>
     </url>
     <url>
         <loc>
             http://geekymamamare.com/blog/2014/03/15/seattle-rails-educational-slash-networking-meetup/
         </loc>
-        <lastmod>2014-05-05T15:44:13-07:00</lastmod>
+        <lastmod>2014-05-06T12:59:11-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2014/03/18/codeacademy/</loc>
+        <lastmod>2014-05-06T13:23:06-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/03/20/codechix/</loc>
-        <lastmod>2014-05-05T15:44:10-07:00</lastmod>
+        <lastmod>2014-05-06T12:59:10-07:00</lastmod>
     </url>
     <url>
-        <loc>http://geekymamamare.com/blog/2014/03/25/geekgirlcon-cocktail-connections/</loc>
-        <lastmod>2014-05-05T15:44:06-07:00</lastmod>
+        <loc>http://geekymamamare.com/blog/2014/03/25/geekgirlcon-networking-meetup/</loc>
+        <lastmod>2014-05-06T11:43:08-07:00</lastmod>
     </url>
     <url>
-        <loc>http://geekymamamare.com/blog/2014/03/30/codeacademy/</loc>
-        <lastmod>2014-05-05T15:44:03-07:00</lastmod>
+        <loc>http://geekymamamare.com/blog/2014/04/05/networking-with-women-in-stem/</loc>
+        <lastmod>2014-05-06T13:23:23-07:00</lastmod>
     </url>
     <url>
-        <loc>http://geekymamamare.com/blog/2014/04/05/norwescon/</loc>
-        <lastmod>2014-05-05T15:44:00-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2014/04/10/remembering-ruby/</loc>
-        <lastmod>2014-05-05T15:43:55-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geekymamamare.com/blog/2014/04/15/my-technical-background/</loc>
-        <lastmod>2014-05-05T15:43:52-07:00</lastmod>
+        <loc>http://geekymamamare.com/blog/2014/04/15/my-computer-background/</loc>
+        <lastmod>2014-05-06T13:01:24-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/04/20/what-do-i-want/</loc>
-        <lastmod>2014-05-05T15:40:55-07:00</lastmod>
+        <lastmod>2014-05-05T17:52:05-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/04/25/who-am-i/</loc>
-        <lastmod>2014-05-05T15:48:04-07:00</lastmod>
+        <lastmod>2014-05-05T17:48:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/04/27/how-my-journey-begins/</loc>
-        <lastmod>2014-05-05T15:40:45-07:00</lastmod>
+        <lastmod>2014-05-05T17:50:26-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/about/</loc>
@@ -176,7 +172,7 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/</loc>
-        <lastmod>2014-05-05T15:48:04-07:00</lastmod>
+        <lastmod>2014-05-06T13:23:23-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/javascript.html</loc>
@@ -184,11 +180,11 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/archives/</loc>
-        <lastmod>2014-05-05T15:48:04-07:00</lastmod>
+        <lastmod>2014-05-06T13:23:23-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/</loc>
-        <lastmod>2014-05-05T15:48:04-07:00</lastmod>
+        <lastmod>2014-05-06T13:23:23-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/robots.txt</loc>

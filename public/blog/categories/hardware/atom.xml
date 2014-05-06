@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hardware | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/hardware/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-05-06T13:26:43-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What Do I Want]]></title>
+    <link href="http://geekymamamare.com/blog/2014/04/20/what-do-i-want/"/>
+    <updated>2014-04-20T21:19:07-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/04/20/what-do-i-want</id>
+    <content type="html"><![CDATA[<h3>Thanksgiving visit</h3>
+
+<p>An old friend from my old Santa Cruz days visited over Thanksgiving, 2012.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn&rsquo;t have anyone I felt like I could turn to.</p>
+
+<h3>Turning to others is hard</h3>
+
+<p>You see, I&rsquo;m a very strong personality.  Small surprise there, I know.  But what this ends up meaning is that for all I seem very strong and able on the outside, I have a lot of doubt and weakness on the inside.  I feel like so many people look up to me (I still am perplexed by this), but none of them feel to me like they are strong enough and have the perpective to be someone I can lean one and turn to when I&rsquo;m feeling week and in need of someone who sees me as just a person.  Sees me with my faults and foibles, but loves me deeply and so can give me that support that only a friend who has known you for many years can give you.  The kind of support that sometimes involves a boot in the arse.  Thank you, dear Kallie.</p>
+
+<h3>Rediscovering my geekery</h3>
+
+<p>She reminded me of the things I find important.  And that my weakness was part of my strength and definitely part of my appeal.  She showed me the beginnings of the support that women can give one another.  And I started to discover some of the strength found from the support of other engineering women.  She reminded me, through many delightfully geeky conversations of my love for engineering, right down to the ones and zeros of circuit design.  To be sure I&rsquo;d learned the lesson, this valued friend sent me a LED clock engineering kit for my birthday in the beginning of 2013.  It wasn&rsquo;t very long before I took the time to start soldering the pieces of that clock.  So. Much. Fun.</p>
+
+<p>Hey.  There it is.  My joy in engineering.  Still there, without a doubt.</p>
+
+<p>OK, so now what&hellip;?</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My computer background]]></title>
+    <link href="http://geekymamamare.com/blog/2014/04/15/my-computer-background/"/>
+    <updated>2014-04-15T22:50:35-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/04/15/my-computer-background</id>
+    <content type="html"><![CDATA[<p>First, some history to know where I come from, technologically.</p>
+
+<h3>Programming</h3>
+
+<p>I discovered a passion for computers in a programming class I took in high school.  I gradual route through post-high school education finally took me to the University of California at Santa Cruz.  I initally planned to major in Computer Science, but when I discovered that they had a Computer Engineering progam when I could learn all about the hardware and still take programming classes as my upper division electives, I knew I&rsquo;d found the right program for me.  Years of hard work later saw me successfully graduated and employed in the computer industry as a software tester.</p>
+
+<h3>Whoops, a job in test!</h3>
+
+<p>I had initially planned to become a developer, but landed my first industry job at a startup that needed a tester immediately and I was the only one in their list willing to come in the very next day, a Saturday.  Yes, I had social plans, but the opportunity was not to be missed.</p>
+
+<h3>Quality Engineering</h3>
+
+<p>Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.</p>
+
+<h3>The decline</h3>
+
+<p>Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I&rsquo;ve managed to avoid this side of the industry until now.  But now, it seems to be the standard.</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -7,11 +7,15 @@ categories:
 - Seattle Rails
 - networking
 - meetups
-- ruby community welcome
+- MINSWAN
 ---
 April 16th, 2013
 
-Seattle Rails Educational/Networking Meetup:  This was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.
+###Seattle Rails community
+The Seattle Rails educational and networking meetup was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.
+
+###MINSWAN
+The Rails community, however, was very welcoming.  I felt encouraged and came away eager to continue forward learning Ruby and Rails as well as networking with folks in that community.  "Matz is nice, so we are nice."  This is a phrase I learned at this event referring to the ruby language designer,  Mr. Yukihiro Matsumoto (Matz).
 
 <br>
 <center>~ Geeky Mama Mare ~</center>

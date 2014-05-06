@@ -5,11 +5,13 @@ date: 2014-04-20 20:19:07 -0800
 comments: true
 categories:
 - old friend
-- hardware roots
-- birthday LED clock kit
+- networking with women
+- hardware
+- birthday
+- passion
 ---
 ###Thanksgiving visit
-An old friend from my old Santa Cruz days visited over Thanksgiving.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn't have anyone I felt like I could turn to.
+An old friend from my old Santa Cruz days visited over Thanksgiving, 2012.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn't have anyone I felt like I could turn to.
 
 ###Turning to others is hard
 You see, I'm a very strong personality.  Small surprise there, I know.  But what this ends up meaning is that for all I seem very strong and able on the outside, I have a lot of doubt and weakness on the inside.  I feel like so many people look up to me (I still am perplexed by this), but none of them feel to me like they are strong enough and have the perpective to be someone I can lean one and turn to when I'm feeling week and in need of someone who sees me as just a person.  Sees me with my faults and foibles, but loves me deeply and so can give me that support that only a friend who has known you for many years can give you.  The kind of support that sometimes involves a boot in the arse.  Thank you, dear Kallie.

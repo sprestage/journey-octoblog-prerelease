@@ -5,10 +5,10 @@ date: 2014-04-27 22:49:04 -0700
 comments: true
 categories:
 - intro
-- beginning
-- goal
-- passion in technology
-- lost dream job
+- pain
+- goals
+- passion
+- priorities
 ---
 ###My introduction
 Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at the dilemna I found myself in.
