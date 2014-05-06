@@ -21,7 +21,7 @@ I had initially planned to become a developer, but landed my first industry job 
 Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.
 
 ###The decline
-Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I've managed to avoid this side of the industry until now.  But now, it seems to be the standard.
+Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I've managed to avoid this side of the industry until now.  But now, it seems to be the standard.  Another failed SDET interview in February seems to confirm this.
 
 <br>
 <center>~ Geeky Mama Mare ~</center>

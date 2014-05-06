@@ -10,7 +10,11 @@ categories:
 ---
 August 20th, 2013
 
-8/20  Seattle Girl Geek Dinner, sponsored by Code Fellows
+###Seattle Girl Geek Dinner
+####sponsored by Code Fellows
+I've already committed myself to the process, but this event was a lovely opportunity to meet many of the ladies from the Code Fellows Ruby on Rails women only bootcamp.  It was nice to talk to women in the middle of the process to make sure I knew how to get ready for my own experience.  I'm getting more and more excited.  If only the code I just submitted might be good enough.
+
+Worried
 
 <br>
 <center>~ Geeky Mama Mare ~</center>

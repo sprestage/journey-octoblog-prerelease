@@ -6,7 +6,7 @@ comments: true
 categories:
 - Code Fellows
 - coding in beautiful places
-- code sample
+- application
 - blueberries
 - family
 ---

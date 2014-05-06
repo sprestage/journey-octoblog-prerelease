@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: RailsTutorial | A Woman's Journey Through Technology]]></title>
-  <link href="http://geekymamamare.com/blog/categories/railstutorial/atom.xml" rel="self"/>
+  <title><![CDATA[Category: GitHub | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
   <updated>2014-05-06T16:35:49-07:00</updated>
   <id>http://geekymamamare.com/</id>
