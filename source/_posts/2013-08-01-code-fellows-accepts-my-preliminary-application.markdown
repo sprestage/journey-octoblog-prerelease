@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Preliminary Code Fellows application accepted"
-date: 2014-02-05 20:50:02 -0800
+title: "Code Fellows accepts my preliminary application"
+date: 2014-02-10 20:50:02 -0800
 comments: true
 categories:
 - Code Fellows

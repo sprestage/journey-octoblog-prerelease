@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I GOT INTO CODE FELLOWS"
-date: 2014-01-10 20:54:16 -0800
+date: 2014-01-05 20:54:16 -0800
 comments: true
 categories:
 - Code Fellows

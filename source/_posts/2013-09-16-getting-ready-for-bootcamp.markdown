@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Ready for Bootcamp"
-date: 2014-01-05 20:56:47 -0800
+date: 2013-12-30 20:56:47 -0800
 comments: true
 categories:
 - family

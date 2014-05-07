@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codechix Ruby on Rails hacking session"
+title: "CodeChix Ruby on Rails hacking session"
 date: 2014-02-25 23:33:05 -0700
 comments: true
 categories:

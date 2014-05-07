@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Submitted Application to Code Fellows"
-date: 2014-02-10 20:48:26 -0800
+title: "Submitted preliminary application to Code Fellows"
+date: 2014-02-15 20:48:26 -0800
 comments: true
 categories:
 - Code Fellows
