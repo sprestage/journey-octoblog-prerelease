@@ -4,7 +4,7 @@
   <title><![CDATA[A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T21:34:23-07:00</updated>
+  <updated>2014-05-06T23:09:31-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -316,22 +316,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[CodeChix Ruby on Rails hacking session]]></title>
-    <link href="http://geekymamamare.com/blog/2014/02/25/codechix-ruby-on-rails-hacking-session/"/>
-    <updated>2014-02-25T22:33:05-08:00</updated>
-    <id>http://geekymamamare.com/blog/2014/02/25/codechix-ruby-on-rails-hacking-session</id>
-    <content type="html"><![CDATA[<p>July 14th, 2013</p>
-
-<p>7/14  First ruby/rails ladies meetup (thanks to codechix and Shaili Guru)</p>
-
-<p><br></p>
-
-<center>~ Geeky Mama Mare ~</center>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Family summer vacation]]></title>
     <link href="http://geekymamamare.com/blog/2014/02/20/family-summer-vacation/"/>
     <updated>2014-02-20T22:37:45-08:00</updated>
@@ -444,7 +428,7 @@
 
 <h3>Summer festival</h3>
 
-<p>It is a beautiful, partly cloudy afternoon at the Festival at Mt Si here in my little home town.  I am ensconced on a blanket on the grass, leaning against a large tree in a thoroughly shady spot.  There is a nice breeze.  The band playing nearby is a pleasant backdrop to the pleasant murmur of my neighbors and their children enjoying a lovely summer afternoon.</p>
+<p>It is a beautiful, partly cloudy afternoon at the Festival at Mt Si here in my little home town.  I am ensconced on a blanket on the grass, leaning against a large tree in a thoroughly shady spot.  There is a nice breeze.  The band playing nearby is a pleasant backdrop to the pleasant murmur of neighbors and children enjoying a lovely summer afternoon.</p>
 
 <h3>My community</h3>
 
@@ -468,9 +452,17 @@
     <id>http://geekymamamare.com/blog/2014/01/30/submitted-code-sample-to-code-fellows</id>
     <content type="html"><![CDATA[<p>August 19th, 2013</p>
 
+<h3>Impostor Syndrome</h3>
+
 <p>If only the code I just submitted might be good enough.</p>
 
-<p>Worried</p>
+<h3>Fretting</h3>
+
+<p>So worried.  There is so much good that could come from this experience.</p>
+
+<p>Will I get into Gold or need to take Silver as well?</p>
+
+<p>So many questions.</p>
 
 <p><br></p>
 
@@ -528,13 +520,33 @@
 
 <h3>The interview</h3>
 
-<p>I must not have done very well.  Had a hard time answering easy interview questions like what is a class vs a method.  What is MVC?</p>
+<p>I must not have done very well.  Had a hard time answering easy interview questions like what is a class vs a method.  What is MVC?  I feel so stupid when trying to answer these sorts of interview questions.  I stammer.  I get my technical terms mixed up.  I am going to need to practice these sorts of interview questions and get better at my technical glib.</p>
 
 <p><br></p>
 
 <center>~ Geeky Mama Mare ~</center>
 
 
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Code Fellows requests additional code samples]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/10/code-fellows-requests-additional-code-samples/"/>
+    <updated>2014-01-10T22:41:20-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/10/code-fellows-requests-additional-code-samples</id>
+    <content type="html"><![CDATA[<p>September 6, 2013</p>
+
+<h3>More code samples!?</h3>
+
+<p>I have been assigned an additional final step.  Yep, I must not have done well in person.  Ok, I can do this.  I have 3 days for 3 assignments.  Some Ruby, some Rails, and some HTML.  Guess the family won&rsquo;t be enjoying my company this weekend.</p>
+
+<p>Yikes!!!</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
 
 ]]></content>
   </entry>

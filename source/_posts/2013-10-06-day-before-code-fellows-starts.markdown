@@ -11,12 +11,16 @@ categories:
 ---
 October 6th, 2013
 
+###Nerves
 Very nervous today.  CodeFellows starts tomorrow.  I'm working out my nerves by thoroughly clearning several rooms in the house, knowing that this sort of thing will fall by the wayside for the next two months.
 
+###Laptop prepared
 I've got my laptop backed up, upgraded to OSX 10.8, and made sure everything still works.
 
+###Little boy is worried
 My beloved boy is all sorts of worried and stressed by the changes we've warned him are coming.
 
+###Sleep makes you smart
 Time to get some good sleep before the adventure starts in the morning.
 
 <br>

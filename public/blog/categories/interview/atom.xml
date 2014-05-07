@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: interview | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/interview/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-05-06T23:09:49-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code Fellows accepts my code sample]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/20/code-fellows-accepts-my-code-sample/"/>
+    <updated>2014-01-20T14:18:45-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/20/code-fellows-accepts-my-code-sample</id>
+    <content type="html"><![CDATA[<p>September 3, 2013</p>
+
+<h3>News!</h3>
+
+<p>Two fretful weeks later, the news finally arrives.  My coding sample was accepted and I&rsquo;ve made it to the final step in the process&hellip;the 10 minute in-person interview.</p>
+
+<p>Yikes!</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Code Fellows interview]]></title>
+    <link href="http://geekymamamare.com/blog/2014/01/15/code-fellows-interview/"/>
+    <updated>2014-01-15T15:53:01-08:00</updated>
+    <id>http://geekymamamare.com/blog/2014/01/15/code-fellows-interview</id>
+    <content type="html"><![CDATA[<p>September 5, 2013</p>
+
+<h3>The interview</h3>
+
+<p>I must not have done very well.  Had a hard time answering easy interview questions like what is a class vs a method.  What is MVC?  I feel so stupid when trying to answer these sorts of interview questions.  I stammer.  I get my technical terms mixed up.  I am going to need to practice these sorts of interview questions and get better at my technical glib.</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

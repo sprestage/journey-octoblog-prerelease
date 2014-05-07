@@ -46,31 +46,43 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/12/20/first-day-of-ruby-on-rails-bootcamp/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T23:05:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/12/25/day-before-code-fellows-starts/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T23:01:50-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekymamamare.com/blog/2013/12/27/last-week-before-bootcamp/</loc>
+        <lastmod>2014-05-06T23:06:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2013/12/30/getting-ready-for-bootcamp/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T23:06:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/01/05/i-got-into-code-fellows/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:46:44-07:00</lastmod>
     </url>
     <url>
-        <loc>http://geekymamamare.com/blog/2014/01/10/code-fellows-follow-up-application/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <loc>
+            http://geekymamamare.com/blog/2014/01/08/submitted-additonal-code-samples-to-code-fellows/
+        </loc>
+        <lastmod>2014-05-06T22:40:28-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geekymamamare.com/blog/2014/01/10/code-fellows-requests-additional-code-samples/
+        </loc>
+        <lastmod>2014-05-06T22:46:02-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/01/15/code-fellows-interview/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:36:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/01/20/code-fellows-accepts-my-code-sample/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:37:08-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -80,11 +92,11 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/01/30/submitted-code-sample-to-code-fellows/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:36:46-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/02/05/coding-at-the-festival/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:47:40-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -103,12 +115,6 @@
         <lastmod>2014-05-06T21:21:59-07:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://geekymamamare.com/blog/2014/02/25/codechix-ruby-on-rails-hacking-session/
-        </loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
-    </url>
-    <url>
         <loc>http://geekymamamare.com/blog/2014/03/05/railstutorial/</loc>
         <lastmod>2014-05-06T21:21:59-07:00</lastmod>
     </url>
@@ -124,7 +130,7 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/03/18/codeacademy/</loc>
-        <lastmod>2014-05-06T21:21:59-07:00</lastmod>
+        <lastmod>2014-05-06T22:06:08-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/2014/03/20/codechix/</loc>
@@ -188,7 +194,7 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/</loc>
-        <lastmod>2014-05-06T16:59:00-07:00</lastmod>
+        <lastmod>2014-05-06T23:06:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/assets/bootstrap/javascript.html</loc>
@@ -196,11 +202,11 @@
     </url>
     <url>
         <loc>http://geekymamamare.com/blog/archives/</loc>
-        <lastmod>2014-05-06T21:22:00-07:00</lastmod>
+        <lastmod>2014-05-06T23:06:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/</loc>
-        <lastmod>2014-05-06T21:22:00-07:00</lastmod>
+        <lastmod>2014-05-06T23:06:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekymamamare.com/robots.txt</loc>
