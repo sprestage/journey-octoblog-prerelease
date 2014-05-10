@@ -1,7 +1,7 @@
-[![Dependency Status](https://gemnasium.com/sprestage/journey-octoblog.png)](https://gemnasium.com/sprestage/journey-octoblog)
+[![Dependency Status](https://gemnasium.com/sprestage/journey-octoblog-prerelease.png)](https://gemnasium.com/sprestage/journey-octoblog-prerelease)
 
 # Intro
-Hi folks.  There isn't a lot to see here.  I'm storing my blog on github so I can easily add and edit my technical blog as well as using Git as my CVS so I can conveniently store everything on Github.
+Hi folks.  There isn't a lot to see here.  I'm storing my blog on github so I can easily add and edit my journey blog as well as using Git as my CVS so I can conveniently store everything on Github.  This is the pre-release version of my journey blog that has all of my posts, including the ones I haven't released yet.  Much better for editing the posts ahead of time before release of the blog posts to the public.
 <br>
 <br>
 
