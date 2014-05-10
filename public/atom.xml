@@ -4,7 +4,7 @@
   <title><![CDATA[A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T23:09:31-07:00</updated>
+  <updated>2014-05-09T19:40:09-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -18,25 +18,17 @@
     <link href="http://geekymamamare.com/blog/2014/04/27/how-my-journey-begins/"/>
     <updated>2014-04-27T22:49:04-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/04/27/how-my-journey-begins</id>
-    <content type="html"><![CDATA[<h3>My introduction</h3>
+    <content type="html"><![CDATA[<p>Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.</p>
 
-<p>Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.  Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let&rsquo;s start by looking at the dilemna I found myself in.</p>
-
-<h3>Broken heart</h3>
+<p>Please enjoy sharing my journey of re-discovering my passion in technology and re-directing (re-purposing?) my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let&rsquo;s start by looking at the dilemna I found myself in.</p>
 
 <p>I had been a quality engineer in the computer industry for 20 years, when, in the summer of 2011, my dream job fell through my hands.  I was devastated.  I quickly realized that I was far too emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.</p>
 
-<h3>Where&rsquo;s the passion?</h3>
-
-<p>A year passed and I refreshed my resume and leapt back into the job seeking pool.  I have been fortunate in the past that each job came along just as it was needed, usually through networking, and generally right along the lines of where I wanted my career to go.  This time was a different experience.  None of the jobs available seemed to be a good fit for my skills or my experience.  I also was beginning to discover a lack of motivation in my search.  It was as if my passion for technology and computers was missing.</p>
-
-<h3>Identifying my priorities</h3>
+<p>A year passed and I refreshed my resume and leapt back into the job search.  I had been fortunate in the past that each job came along just as it was needed, usually through networking, and generally right along the lines of where I wanted my career to go.  This time it was a different experience.  None of the jobs available seemed to be a good fit for my skills or my experience.  I also was beginning to discover a lack of motivation in my search.  It was as if my passion for technology and computers was missing.</p>
 
 <p>I took a bit of time to figure out my priorities and what made me eager to go to work in the morning, only to discover that I really wasn&rsquo;t seeing anything available in the job market that made me eager to leave my family, my son, my ranch, and my horses in the morning.</p>
 
 <p>My new goals started to come clear.</p>
-
-<h3>My goal</h3>
 
 <p>I wanted to renew my passion for technology such that I could find a company to contribute to that made me as eager to head to the office in the morning as I was to return to my beloved ranch in the evening.</p>
 
@@ -88,15 +80,11 @@
     <link href="http://geekymamamare.com/blog/2014/04/20/what-do-i-want/"/>
     <updated>2014-04-20T21:19:07-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/04/20/what-do-i-want</id>
-    <content type="html"><![CDATA[<h3>Thanksgiving visit</h3>
+    <content type="html"><![CDATA[<p>An old friend from my old Santa Cruz days visited over Thanksgiving, 2012.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn&rsquo;t have anyone I felt like I could turn to.</p>
 
-<p>An old friend from my old Santa Cruz days visited over Thanksgiving, 2012.  I was pretty uncomfortable in my own skin at the time and had been been feeling like I didn&rsquo;t have anyone I felt like I could turn to.</p>
-
-<h3>Turning to others is hard</h3>
+<p>Turning to others is hard</p>
 
 <p>You see, I&rsquo;m a very strong personality.  Small surprise there, I know.  But what this ends up meaning is that for all I seem very strong and able on the outside, I have a lot of doubt and weakness on the inside.  I feel like so many people look up to me (I still am perplexed by this), but none of them feel to me like they are strong enough and have the perpective to be someone I can lean one and turn to when I&rsquo;m feeling week and in need of someone who sees me as just a person.  Sees me with my faults and foibles, but loves me deeply and so can give me that support that only a friend who has known you for many years can give you.  The kind of support that sometimes involves a boot in the arse.  Thank you, dear Kallie.</p>
-
-<h3>Rediscovering my geekery</h3>
 
 <p>She reminded me of the things I find important.  And that my weakness was part of my strength and definitely part of my appeal.  She showed me the beginnings of the support that women can give one another.  And I started to discover some of the strength found from the support of other engineering women.  She reminded me, through many delightfully geeky conversations of my love for engineering, right down to the ones and zeros of circuit design.  To be sure I&rsquo;d learned the lesson, this valued friend sent me a LED clock engineering kit for my birthday in the beginning of 2013.  It wasn&rsquo;t very long before I took the time to start soldering the pieces of that clock.  So. Much. Fun.</p>
 
@@ -130,8 +118,6 @@
 
 <p>Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.</p>
 
-<h3>The decline</h3>
-
 <p>Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I&rsquo;ve managed to avoid this side of the industry until now.  But now, it seems to be the standard.  Another failed SDET interview in February seems to confirm this.</p>
 
 <p><br></p>
@@ -148,11 +134,7 @@
     <id>http://geekymamamare.com/blog/2014/04/05/networking-with-women-in-stem</id>
     <content type="html"><![CDATA[<p>March 28-31st, 2013</p>
 
-<h3>NorWesCon panels and coding</h3>
-
 <p>Spring brought with it the local literary convention, NorWesCon.  There were several panels that got me thinking about women in STEM (science, technology, engineering, math), networking within my industry, and how to re-find my passion in technology.  I decided it was time to pick back up my long abandoned pursuit of programming and to start networking with other women in technology for mutual support and growth.</p>
-
-<h3>Networking with women</h3>
 
 <p>Most of my social connections previously have been with men, so networking with women is a frightening notion for me.  I have long shied away from Ladies Nights Out as being very foreign and uncomfortable and not very applicable.  But, I needed to get out more and freshen my networking skills as a preparation for interviewing so I time to plunge forward right outside my comfort zone.</p>
 
@@ -164,17 +146,13 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[GeekGirlCon networking meetup]]></title>
+    <title type="html"><![CDATA[GeekGirlCon Cocktail Connections networking meetup]]></title>
     <link href="http://geekymamamare.com/blog/2014/03/25/geekgirlcon-networking-meetup/"/>
     <updated>2014-03-25T23:00:35-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/25/geekgirlcon-networking-meetup</id>
     <content type="html"><![CDATA[<p>April 11th, 2013</p>
 
-<h3>GeekGirlCon Cocktail Connections</h3>
-
 <p>This was the first in my networking event line up.  A meetup for the purpose of networking with other geeky women.  It seemed like a good first step to get me started on networking.  I was very nervous going into this, since this sort of thing is way outside of my comfort zone.  Ok, deep breath, I can do this.</p>
-
-<h3>Not so bad</h3>
 
 <p>It turned out that these are good and friendly folk.  We were all mostly new, but that helped somewhat.  I introduced myself to a number of folks and worked on those introduction sorts of conversations.  Some were more successful that others.  I&rsquo;m glad I went.  This was a good training event in how to network.</p>
 
@@ -186,10 +164,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Networking with female developers]]></title>
-    <link href="http://geekymamamare.com/blog/2014/03/20/codechix/"/>
+    <title type="html"><![CDATA[Networking with lady devs]]></title>
+    <link href="http://geekymamamare.com/blog/2014/03/20/networking-with-lady-devs/"/>
     <updated>2014-03-20T23:06:42-07:00</updated>
-    <id>http://geekymamamare.com/blog/2014/03/20/codechix</id>
+    <id>http://geekymamamare.com/blog/2014/03/20/networking-with-lady-devs</id>
     <content type="html"><![CDATA[<p>I chose a couple of venues to start with, both online and in person.</p>
 
 <h3>DevChix</h3>
@@ -216,15 +194,9 @@
     <link href="http://geekymamamare.com/blog/2014/03/18/codeacademy/"/>
     <updated>2014-03-18T23:09:43-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/18/codeacademy</id>
-    <content type="html"><![CDATA[<h3>Ruby?</h3>
-
-<p>Remembering a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back, I also remembered the fun I had exploring Ruby and how easy Ruby made things.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
-
-<h3>CodeAcademy</h3>
+    <content type="html"><![CDATA[<p>I remembered a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
 
 <p>I found CodeAcademy and spent most of April and May working my way through thier Ruby, JavaScript, and JQuery offerings.  Their lessons are pretty basic introductions, but are a fun introduction and free.  I hadn&rsquo;t really meant to do the JS and JQuery lessons, but the Ruby lessons were broken for a while.  I enjoyed the gamification of the coding lessons, where I could earn a personal high score in Points Today, Day Streak, Total Points, and Badges Completed.</p>
-
-<h3>Coding!</h3>
 
 <p>I was rapidly starting to believe that Ruby on Rails may well be a good and enjoyable start along my path towards my goal.</p>
 
@@ -242,13 +214,9 @@
     <id>http://geekymamamare.com/blog/2014/03/15/seattle-rails-educational-slash-networking-meetup</id>
     <content type="html"><![CDATA[<p>April 16th, 2013</p>
 
-<h3>Seattle Rails community</h3>
-
 <p>The Seattle Rails educational and networking meetup was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.</p>
 
-<h3>MINSWAN</h3>
-
-<p>The Rails community, however, was very welcoming.  I felt encouraged and came away eager to continue forward learning Ruby and Rails as well as networking with folks in that community.  &ldquo;Matz is nice, so we are nice.&rdquo;  This is a phrase I learned at this event referring to the ruby language designer,  Mr. Yukihiro Matsumoto (Matz).</p>
+<p>The Seattle Rails community was <em>very</em> welcoming.  I felt encouraged and came away eager to continue forward learning Ruby and Rails as well as networking with folks in that community.  &ldquo;Matz is nice, so we are nice.&rdquo;  This is a phrase I learned at this event referring to the ruby language designer,  Mr. Yukihiro Matsumoto (Matz).  Seems very true.  Looking forward to becomming a part of this community.</p>
 
 <p><br></p>
 
@@ -263,8 +231,6 @@
     <updated>2014-03-10T23:28:23-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/10/shes-geeky</id>
     <content type="html"><![CDATA[<p>April 26th &amp; 27th, 2013</p>
-
-<h3>She&rsquo;s Geeky</h3>
 
 <p>I joined several relevent local meetup groups and then I learned of She&rsquo;s Geeky 13, Seattle.  This is an un-conference for women geeks of all kinds to share, connect, network, learn, inspire, and enjoy (paraphrased from the She&rsquo;s Geeky website, shesgeeky.org).</p>
 
@@ -296,15 +262,9 @@
     <id>http://geekymamamare.com/blog/2014/03/05/railstutorial</id>
     <content type="html"><![CDATA[<p>The month of May found me finishing up CodeAcademy and looking for something new.</p>
 
-<h3>RailsTutorial</h3>
-
 <p>Remembering some advice from the Seattle Rails event, I looked into Michael Hartl&rsquo;s online RailsTutorial.  I&rsquo;d been learning Ruby all this time, which is a programming language.  A particularly high level and weakly typed language.  Rails is a framework that is written in Ruby.  What I had not realized before now is that I&rsquo;d been using Rails back at my last job and so was already rather familiar with it.</p>
 
-<h3>GitHub</h3>
-
 <p>I also started my GitHub repository as a result of working through RailsTutorial.  I had no idea at the time just how important and heavily used that repo would become.  It makes me smile, looking back.</p>
-
-<h3>StackOverflow</h3>
 
 <p>I took about 2 months to work through RailsTutorial.  I really took my time so I would fully understand things as well as trying to work through the various exercises.  I first became familiar with StackOverflow at this time, since occasionally, syntax changes in newer versions of Ruby/Rails would cause proplems.  Goodness have I ended up becoming familiar with Stack Overflow over the last year as a Go To place for finding solutions to problems.  So far, I haven&rsquo;t answered a question nor posed a question of my own.  Impostor Syndrome or perfectionism has kept me from doing it so far as I want to be sure to get it just right.</p>
 
@@ -322,19 +282,11 @@
     <id>http://geekymamamare.com/blog/2014/02/20/family-summer-vacation</id>
     <content type="html"><![CDATA[<p>July 17-21, 2013</p>
 
-<h3>Family vacation</h3>
-
 <p>Something I haven&rsquo;t been mentioning too much yet is the importance of taking time for yourself and for your family.  It can be a lot of effort in logistics and preparation, but going away with my family and putting most of our every day responsibilities aside for a time can be a wonderful way to relax and reconnect.</p>
-
-<h3>Summer camp</h3>
 
 <p>Some of the family is involved in a martial art.  The art has a summer camp every year that is an extended weekend campout at a beautiful lake on the Olympic peninsula.  The participants organize into little workshops or hikes on the days leading up to the last day when all gather for the summer Belt Test.</p>
 
-<h3>Family time</h3>
-
 <p>I am fortunate that this is an event that is looked forward to by the whole family.  We keep it pretty civilized though by staying in an RV.  We like our hot showers and easy cooking facilities, not to mention the espresso machine and power for our devices.  I mean really, how would I blog without power?  Still, much of the time is spent together around the campfire, swimming, hiking, or playing games.</p>
-
-<h3>Mostly peaceful</h3>
 
 <p>The weather was lovely.  The company was good.  Swimming in the lake was divine.  Our little boy had such a good time, with a possible exception of one late night when his tummy decided ENOUGH!.  Ah well, I managed to get Everything cleaned up in the Rented RV after only 2 or 3 hours.  Poor little guy.  Poor mama.</p>
 
@@ -352,17 +304,13 @@
     <id>http://geekymamamare.com/blog/2014/02/15/submitted-preliminary-application-to-code-fellows</id>
     <content type="html"><![CDATA[<p>July 26th, 2013</p>
 
-<h3>Code Fellows</h3>
+<p>Who are these Code Fellows anyway?</p>
 
 <p>Not sure where I found these folks initially.  I think I just kept stumbling over the name over and over.  It seemed like a rigorous but awesome solution to my dilemna of wanting to learn enough to break into development in the computer industry.  From what I read, it was going to be very intense, but also very effective, and with a money back guarantee if I didn&rsquo;t get a relevent industry job paying $60,000 or more.  Steep price tag though.  Really steep.  And it has been going up.  I&rsquo;d noticed that they had a women&rsquo;s only Ruby on Rails bootcamp over the summer, but I just wasn&rsquo;t quite ready to commit when the deadline came (about a week after I&rsquo;d heard about them, I think).  But now, I think I&rsquo;m ready, so&hellip;</p>
-
-<h3>Preliminary application</h3>
 
 <p>Today I finally took a big and scary step.  I wrote and submitted my application to CodeFellows for the Ruby on Rails bootcamp this late fall.  I took my time and gave thoughtful responses and felt pretty good about it.  Less than an hour later, I already had a response.  On a Friday late afternoon!</p>
 
 <p>I had made it to the next round of the Bootcamp Application.</p>
-
-<h3>Ruby on Rails bootcamp application assignment</h3>
 
 <p>Now, I just have to:</p>
 
@@ -472,15 +420,11 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Seattle Girl Geek Dinner - meet Code Fellows]]></title>
+    <title type="html"><![CDATA[Seattle Girl Geek Dinner - meet the Code Fellows]]></title>
     <link href="http://geekymamamare.com/blog/2014/01/25/seattle-girl-geek-dinner-meet-code-fellows/"/>
     <updated>2014-01-25T22:39:39-08:00</updated>
     <id>http://geekymamamare.com/blog/2014/01/25/seattle-girl-geek-dinner-meet-code-fellows</id>
     <content type="html"><![CDATA[<p>August 20th, 2013</p>
-
-<h3>Seattle Girl Geek Dinner</h3>
-
-<h4>sponsored by Code Fellows</h4>
 
 <p>I&rsquo;ve already committed myself to the process, but this event was a lovely opportunity to meet many of the ladies from the Code Fellows Ruby on Rails women only bootcamp.  It was nice to talk to women in the middle of the process to make sure I knew how to get ready for my own experience.  I&rsquo;m getting more and more excited.</p>
 
@@ -518,8 +462,6 @@
     <id>http://geekymamamare.com/blog/2014/01/15/code-fellows-interview</id>
     <content type="html"><![CDATA[<p>September 5, 2013</p>
 
-<h3>The interview</h3>
-
 <p>I must not have done very well.  Had a hard time answering easy interview questions like what is a class vs a method.  What is MVC?  I feel so stupid when trying to answer these sorts of interview questions.  I stammer.  I get my technical terms mixed up.  I am going to need to practice these sorts of interview questions and get better at my technical glib.</p>
 
 <p><br></p>
@@ -538,7 +480,7 @@
     <id>http://geekymamamare.com/blog/2014/01/10/code-fellows-requests-additional-code-samples</id>
     <content type="html"><![CDATA[<p>September 6, 2013</p>
 
-<h3>More code samples!?</h3>
+<p>More code samples!?</p>
 
 <p>I have been assigned an additional final step.  Yep, I must not have done well in person.  Ok, I can do this.  I have 3 days for 3 assignments.  Some Ruby, some Rails, and some HTML.  Guess the family won&rsquo;t be enjoying my company this weekend.</p>
 

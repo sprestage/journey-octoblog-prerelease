@@ -12,7 +12,6 @@ categories:
 ---
 September 16th, 2013
 
-###Acceptance
 The news has finally come.  I have been accepted to both silver and gold.  I am excited, pleased, terrified, and eager.  I am torn between wishing I'd been qualified to skip silver and go straight to gold.  It would have been a nice time and money saver.  I am also relieved, in that now I know I will be fully qualified as I start each class and won't be running to catch up a little as I go straight into gold.  Additional huge bonus for me will be attending both bootcamps at the same time as my husband.  Sharing the commute and sharing the experience together will be, I think, a great benefit for us both.
 
 ###Preparing for winter

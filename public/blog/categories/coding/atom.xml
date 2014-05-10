@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coding | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/coding/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T23:09:49-07:00</updated>
+  <updated>2014-05-09T19:40:39-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -32,8 +32,6 @@
 
 <p>Several industry quality engineering positions later, I decided that I very much liked testing, as long as I was working very closely with the development process.  I wanted to be in on the design decisions and debug the specs (specifications) before they were implemented and it was too late.</p>
 
-<h3>The decline</h3>
-
 <p>Slowly the industry changed, turning quality engineers into SDETs and requiring automation of monolithic systems where it is hard to feel like your testing, your coding, or your opinions matter much.  I&rsquo;ve managed to avoid this side of the industry until now.  But now, it seems to be the standard.  Another failed SDET interview in February seems to confirm this.</p>
 
 <p><br></p>
@@ -50,11 +48,7 @@
     <id>http://geekymamamare.com/blog/2014/04/05/networking-with-women-in-stem</id>
     <content type="html"><![CDATA[<p>March 28-31st, 2013</p>
 
-<h3>NorWesCon panels and coding</h3>
-
 <p>Spring brought with it the local literary convention, NorWesCon.  There were several panels that got me thinking about women in STEM (science, technology, engineering, math), networking within my industry, and how to re-find my passion in technology.  I decided it was time to pick back up my long abandoned pursuit of programming and to start networking with other women in technology for mutual support and growth.</p>
-
-<h3>Networking with women</h3>
 
 <p>Most of my social connections previously have been with men, so networking with women is a frightening notion for me.  I have long shied away from Ladies Nights Out as being very foreign and uncomfortable and not very applicable.  But, I needed to get out more and freshen my networking skills as a preparation for interviewing so I time to plunge forward right outside my comfort zone.</p>
 
@@ -70,15 +64,9 @@
     <link href="http://geekymamamare.com/blog/2014/03/18/codeacademy/"/>
     <updated>2014-03-18T23:09:43-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/18/codeacademy</id>
-    <content type="html"><![CDATA[<h3>Ruby?</h3>
-
-<p>Remembering a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back, I also remembered the fun I had exploring Ruby and how easy Ruby made things.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
-
-<h3>CodeAcademy</h3>
+    <content type="html"><![CDATA[<p>I remembered a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
 
 <p>I found CodeAcademy and spent most of April and May working my way through thier Ruby, JavaScript, and JQuery offerings.  Their lessons are pretty basic introductions, but are a fun introduction and free.  I hadn&rsquo;t really meant to do the JS and JQuery lessons, but the Ruby lessons were broken for a while.  I enjoyed the gamification of the coding lessons, where I could earn a personal high score in Points Today, Day Streak, Total Points, and Badges Completed.</p>
-
-<h3>Coding!</h3>
 
 <p>I was rapidly starting to believe that Ruby on Rails may well be a good and enjoyable start along my path towards my goal.</p>
 
@@ -96,17 +84,13 @@
     <id>http://geekymamamare.com/blog/2014/02/15/submitted-preliminary-application-to-code-fellows</id>
     <content type="html"><![CDATA[<p>July 26th, 2013</p>
 
-<h3>Code Fellows</h3>
+<p>Who are these Code Fellows anyway?</p>
 
 <p>Not sure where I found these folks initially.  I think I just kept stumbling over the name over and over.  It seemed like a rigorous but awesome solution to my dilemna of wanting to learn enough to break into development in the computer industry.  From what I read, it was going to be very intense, but also very effective, and with a money back guarantee if I didn&rsquo;t get a relevent industry job paying $60,000 or more.  Steep price tag though.  Really steep.  And it has been going up.  I&rsquo;d noticed that they had a women&rsquo;s only Ruby on Rails bootcamp over the summer, but I just wasn&rsquo;t quite ready to commit when the deadline came (about a week after I&rsquo;d heard about them, I think).  But now, I think I&rsquo;m ready, so&hellip;</p>
-
-<h3>Preliminary application</h3>
 
 <p>Today I finally took a big and scary step.  I wrote and submitted my application to CodeFellows for the Ruby on Rails bootcamp this late fall.  I took my time and gave thoughtful responses and felt pretty good about it.  Less than an hour later, I already had a response.  On a Friday late afternoon!</p>
 
 <p>I had made it to the next round of the Bootcamp Application.</p>
-
-<h3>Ruby on Rails bootcamp application assignment</h3>
 
 <p>Now, I just have to:</p>
 
@@ -136,7 +120,7 @@
     <id>http://geekymamamare.com/blog/2014/01/10/code-fellows-requests-additional-code-samples</id>
     <content type="html"><![CDATA[<p>September 6, 2013</p>
 
-<h3>More code samples!?</h3>
+<p>More code samples!?</p>
 
 <p>I have been assigned an additional final step.  Yep, I must not have done well in person.  Ok, I can do this.  I have 3 days for 3 assignments.  Some Ruby, some Rails, and some HTML.  Guess the family won&rsquo;t be enjoying my company this weekend.</p>
 

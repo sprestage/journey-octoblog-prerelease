@@ -11,7 +11,8 @@ categories:
 ---
 September 6, 2013
 
-###More code samples!?
+More code samples!?
+
 I have been assigned an additional final step.  Yep, I must not have done well in person.  Ok, I can do this.  I have 3 days for 3 assignments.  Some Ruby, some Rails, and some HTML.  Guess the family won't be enjoying my company this weekend.
 
 Yikes!!!

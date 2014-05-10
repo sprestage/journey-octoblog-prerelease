@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networking with female developers"
+title: "Networking with lady devs"
 date: 2014-03-20 23:06:42 -0700
 comments: true
 categories:

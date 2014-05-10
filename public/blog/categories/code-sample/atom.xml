@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code sample | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/code-sample/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T23:09:49-07:00</updated>
+  <updated>2014-05-09T19:40:39-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -86,13 +86,15 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Submitted additonal code samples to Code Fellows]]></title>
+    <title type="html"><![CDATA[Submitted additional code samples to Code Fellows]]></title>
     <link href="http://geekymamamare.com/blog/2014/01/08/submitted-additonal-code-samples-to-code-fellows/"/>
     <updated>2014-01-08T21:33:55-08:00</updated>
     <id>http://geekymamamare.com/blog/2014/01/08/submitted-additonal-code-samples-to-code-fellows</id>
-    <content type="html"><![CDATA[<h3>Additional code samples</h3>
+    <content type="html"><![CDATA[<p>Whew!</p>
 
-<p>Whew!  3 code samples in 3 days.  Exhausting, but I made it.  GitHub was a good friend while I tried to keep forward momentum, while juggling my time and carefully progressing through each assignment.  I feel pretty good about the assignments.  They could be better, but isn&rsquo;t that what the bootcamp is for?</p>
+<p>3 code samples in 3 days.</p>
+
+<p>Exhausting, but I made it.  GitHub was a good friend while I tried to keep forward momentum, while juggling my time and carefully progressing through each assignment.  I feel pretty good about the assignments.  They could be better, but isn&rsquo;t that what the bootcamp is for?</p>
 
 <p>And now, more waiting.  Hopefully not too long, since I am on serious pins and needles here.</p>
 

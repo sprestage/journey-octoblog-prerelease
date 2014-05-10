@@ -4,7 +4,7 @@
   <title><![CDATA[Category: a plan | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/a-plan/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T23:09:49-07:00</updated>
+  <updated>2014-05-09T19:40:39-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -20,11 +20,7 @@
     <id>http://geekymamamare.com/blog/2014/04/05/networking-with-women-in-stem</id>
     <content type="html"><![CDATA[<p>March 28-31st, 2013</p>
 
-<h3>NorWesCon panels and coding</h3>
-
 <p>Spring brought with it the local literary convention, NorWesCon.  There were several panels that got me thinking about women in STEM (science, technology, engineering, math), networking within my industry, and how to re-find my passion in technology.  I decided it was time to pick back up my long abandoned pursuit of programming and to start networking with other women in technology for mutual support and growth.</p>
-
-<h3>Networking with women</h3>
 
 <p>Most of my social connections previously have been with men, so networking with women is a frightening notion for me.  I have long shied away from Ladies Nights Out as being very foreign and uncomfortable and not very applicable.  But, I needed to get out more and freshen my networking skills as a preparation for interviewing so I time to plunge forward right outside my comfort zone.</p>
 
@@ -40,15 +36,9 @@
     <link href="http://geekymamamare.com/blog/2014/03/18/codeacademy/"/>
     <updated>2014-03-18T23:09:43-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/18/codeacademy</id>
-    <content type="html"><![CDATA[<h3>Ruby?</h3>
-
-<p>Remembering a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back, I also remembered the fun I had exploring Ruby and how easy Ruby made things.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
-
-<h3>CodeAcademy</h3>
+    <content type="html"><![CDATA[<p>I remembered a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby doesn&rsquo;t have the pain of memory allocation and pointers and string manipulation pain.  This seemed like something to investigate further, so I did a bit of research investigating online learning resources for Ruby.</p>
 
 <p>I found CodeAcademy and spent most of April and May working my way through thier Ruby, JavaScript, and JQuery offerings.  Their lessons are pretty basic introductions, but are a fun introduction and free.  I hadn&rsquo;t really meant to do the JS and JQuery lessons, but the Ruby lessons were broken for a while.  I enjoyed the gamification of the coding lessons, where I could earn a personal high score in Points Today, Day Streak, Total Points, and Badges Completed.</p>
-
-<h3>Coding!</h3>
 
 <p>I was rapidly starting to believe that Ruby on Rails may well be a good and enjoyable start along my path towards my goal.</p>
 
@@ -65,8 +55,6 @@
     <updated>2014-03-10T23:28:23-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/03/10/shes-geeky</id>
     <content type="html"><![CDATA[<p>April 26th &amp; 27th, 2013</p>
-
-<h3>She&rsquo;s Geeky</h3>
 
 <p>I joined several relevent local meetup groups and then I learned of She&rsquo;s Geeky 13, Seattle.  This is an un-conference for women geeks of all kinds to share, connect, network, learn, inspire, and enjoy (paraphrased from the She&rsquo;s Geeky website, shesgeeky.org).</p>
 

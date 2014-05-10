@@ -4,7 +4,7 @@
   <title><![CDATA[Category: GitHub | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-05-06T23:09:49-07:00</updated>
+  <updated>2014-05-09T19:40:39-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -20,15 +20,9 @@
     <id>http://geekymamamare.com/blog/2014/03/05/railstutorial</id>
     <content type="html"><![CDATA[<p>The month of May found me finishing up CodeAcademy and looking for something new.</p>
 
-<h3>RailsTutorial</h3>
-
 <p>Remembering some advice from the Seattle Rails event, I looked into Michael Hartl&rsquo;s online RailsTutorial.  I&rsquo;d been learning Ruby all this time, which is a programming language.  A particularly high level and weakly typed language.  Rails is a framework that is written in Ruby.  What I had not realized before now is that I&rsquo;d been using Rails back at my last job and so was already rather familiar with it.</p>
 
-<h3>GitHub</h3>
-
 <p>I also started my GitHub repository as a result of working through RailsTutorial.  I had no idea at the time just how important and heavily used that repo would become.  It makes me smile, looking back.</p>
-
-<h3>StackOverflow</h3>
 
 <p>I took about 2 months to work through RailsTutorial.  I really took my time so I would fully understand things as well as trying to work through the various exercises.  I first became familiar with StackOverflow at this time, since occasionally, syntax changes in newer versions of Ruby/Rails would cause proplems.  Goodness have I ended up becoming familiar with Stack Overflow over the last year as a Go To place for finding solutions to problems.  So far, I haven&rsquo;t answered a question nor posed a question of my own.  Impostor Syndrome or perfectionism has kept me from doing it so far as I want to be sure to get it just right.</p>
 

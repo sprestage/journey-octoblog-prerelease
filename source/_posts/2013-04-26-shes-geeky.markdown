@@ -12,7 +12,6 @@ categories:
 ---
 April 26th & 27th, 2013
 
-###She's Geeky
 I joined several relevent local meetup groups and then I learned of She's Geeky 13, Seattle.  This is an un-conference for women geeks of all kinds to share, connect, network, learn, inspire, and enjoy (paraphrased from the She's Geeky website, shesgeeky.org).
 
 ###Impostor Syndrome
