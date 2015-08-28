@@ -1,4 +1,3 @@
-[![Dependency Status](https://gemnasium.com/sprestage/journey-octoblog-prerelease.png)](https://gemnasium.com/sprestage/journey-octoblog-prerelease)
 
 # Intro
 Hi folks.  There isn't a lot to see here.  I'm storing my blog on github so I can easily add and edit my journey blog as well as using Git as my CVS so I can conveniently store everything on Github.  This is the pre-release version of my journey blog that has all of my posts, including the ones I haven't released yet.  Much better for editing the posts ahead of time before release of the blog posts to the public.
@@ -29,7 +28,7 @@ Check out [Octopress.org](http://octopress.org/docs) for guides and documentatio
 
 ## Contributing
 
-[![Build Status](https://travis-ci.org/imathis/octopress.png?branch=master)](https://travis-ci.org/imathis/octopress)
+Original octopress source, [![Build Status](https://travis-ci.org/imathis/octopress.png?branch=master)](https://travis-ci.org/imathis/octopress)
 
 We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them into our main releases.
 
